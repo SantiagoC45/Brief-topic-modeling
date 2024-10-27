@@ -1,463 +1,836 @@
 Tema 0:
-0.004*"bogota" + 0.004*"agua" + 0.003*"adictos" + 0.003*"octubre" + 0.003*"ganar" + 0.003*"claves" + 0.003*"colombia" + 0.003*"jueves"
+0.003*"gobierno" + 0.002*"petro" + 0.002*"no" + 0.002*"presidencial" + 0.002*"fuero" + 0.002*"medico" + 0.002*"cabeza" + 0.002*"mesas"
 ------------------------------------
-¿Por qué a la gente le gusta adelantar la Navidad y dicen que 'desde septiembre se siente diciembre'? Esta es la explicación de expertos
-Él es Shigeru Miyamoto, el genio detrás del reino de los hongos donde viven Mario y Luigi
-'Retomar la inversión privada será un proceso gradual y lo vemos más fuerte para 2026': así está viendo Itaú a Colombia
-Así fue la llamada al 911 del dueño del hotel donde murió Liam Payne, de One Direction: 'Está rompiendo toda la habitación'
-Hombre de 42 años consiguió una incapacidad permanente y un millonario pago por su adicción al Heavy Metal: 'Padezco una situación de discriminación'
-Oso andino fue captado en video mientras paseaba por embalse de Chuza, en el páramo de Chingaza, donde antes había agua
-Lotería de Bogotá y Quindío: estos son los resultados y números ganadores del jueves 10 de octubre del 2024
-Las últimas imágenes de Liam Payne, momentos antes de morir
-Serena Williams fue operada con éxito para extirpar un tumor que le apareció en el cuello: 'Me siento tan agradecida y afortunada que todo salió bien'
-Se cancela el concierto de Luis Alberto Posada en Bogotá: ¿cómo recuperar el dinero de las entradas?
-La médica rural que en Mongolia sigue a sus pacientes nómadas a caballo
-Nutricionista explica cuál es la mejor forma de consumir avena: 'Cruda no es, pues contiene un antinutriente'
-Ocho alimentos que le ayudan a reducir la papada y cómo incorporarlos a su dieta
-Corte Constitucional tumbó artículo del Plan Nacional de Desarrollo ligado a función de la Superintendencia de Transporte
-Lágrimas negras
-Indignante caso de maltrato animal en Bogotá: Policía rescata a 41 perros que permanecían hacinados dentro de una vivienda
-Sin agua y sin luz: el sector de Bogotá que tendrá racionamiento y corte de electricidad este jueves, 17 de octubre
-Escuchar y analizar, claves para combatir la polarización
-Ganar con trampa no es ganar
-COP16: los puntos claves de la Cumbre de Biodiversidad que se tendrán en cuenta en Cali
-Croacia, una oda a la belleza del Adriático: descubra tres ciudades imperdibles para su viaje
-Aquí y ahora
-Exclusivo: los chats en los que jugador del Envigado FC habría ofrecido soborno para inventar un penalti
-Las camionetas de alta gama, Rolex y gemas que presume en redes el hombre que se hace llamar el nuevo 'zar de las esmeraldas' de Colombia
-Colombia sigue de segunda en la eliminatoria para el Mundial 2026, gracias a la derrota de Uruguay: así va la tabla de posiciones
-Planes en Bogotá: esta es la agenda cultural y recreativa para el puente festivo de semana de receso
-Lorelei Tarón, esposa de Falcao, habla del precio de la fama: ‘Cuido lo que es mío (…) Hay mujeres que se regalan mucho’
-'Entre más se afecte nivel de vida de campesinos y jornaleros, más crecerán las economías ilícitas': Petro tras eliminación de artículos de la laboral
-Estos son los usuarios que menos agua están ahorrando en  en Bogotá
-Director de la CAR Cundinamarca habla sobre la extracción de agua de empresa en La Calera: 'La comunidad no se opone'
-Ruth Chepngetich pulverizó todos los tiempos en el Maratón de Chicago: batió récord mundial para entrar en la historia
-¿Cuáles son los panes saludables que puede incluir en la dieta para la pérdida de peso? Esto dicen los expertos
-Estudio sobre la esperanza de vida de los recién nacidos de esta época demostró que vivirían menos
-Disney+ evitará que se comparta la contraseña de la cuenta: ya hay fecha para Colombia, ojo
-Adictos a mí
-Selección Colombia cambia de horario para jugar contra Ecuador: Fifa confirma programación de las fechas 11 y 12 de la eliminatoria
-Estos son los usuarios que menos agua están ahorrando en medio de los racionamientos en Bogotá
-El Sofa cierra un fin de semana de color, 'cosplay' y disfraces en Corferias
+El debate por la presencialidad en los juicios orales tras la sanción de la ley estatutaria de administración de justicia
+Fue al médico porque tenía ‘algo en el ojo’ y descubrieron que tenía grave infección y un parásito
+¿Por qué Israel asegura que la muerte del líder de Hamás, Yahya Sinwar, es el inicio del fin de la guerra en Gaza?
+La cantante Cardi B cancela un concierto al ser hospitalizada por una emergencia médica: ¿cuál es su estado de salud?
+La embestida del Gobierno Petro contra la Registraduría ‘ad portas’ de las elecciones presidenciales de 2026
+Harvard encontró un sustituto para el azúcar que tendría beneficios para los diabéticos
+Louis, Zayn, Niall y Harry, exintegrantes de One Direction, envían mensaje tras la muerte de Liam Payne en Argentina: 'Lo extrañaremos muchísimo'
+Lego se lanza al mundo del documental con Pharrell Williams como protagonista
+Cumbre Brics expone fisuras entre Lula y Maduro, ¿podría ocurrir la implosión del Foro de São Paulo y qué papel tendría Petro?
+El hombre graduado y con una maestría que no encuentra trabajo desde hace nueve años: ‘La gente me ha dicho que solicite empleos con salario mínimo’
+La infusión natural para purificar el hígado y cuidar sus riñones: la prepara en dos pasos
+Navidad 2024: descubra cuáles son los colores que serán tendencia para decorar en este diciembre
+Madre soltera en Estados Unidos revela cuál es el costo real de una vida de calidad en Tampa: ‘La calidad de vida, cuesta, estar asegurado, cuesta’
+Ley para atacar falta de pericia en la conducción y la reincidencia en infracciones viales
+Delegación de Paz del Gobierno con el Eln  anunció que esa guerrilla liberó a militar (r) secuestrado en junio
+Gobierno alista un racionamiento programado de gas natural de cinco días
+Más allá del Cauca
+El control territorial II
+Rubén Blades se presenta en el concierto 'Paz con la naturaleza' este sábado en Cali para la COP16: así puede ver gratis el show
+Una lección de vocación
+Otras mesas
+Guho Cho, traductor de Cien años de soledad al surcoreano, habla sobre Han Kang, la Nobel de Literatura: ‘Un escritor siempre debe tratar temas que incomodan’
+¿Por qué algunos países son ricos y otros pobres? Esto dicen los ganadores del Nobel de Economía 2024
+¿Sobre qué tema pendiente en Colombia alguien tiene que dar la cara?
+Israel confirma que mató a Yahya Sinwar, máximo líder de Hamás en Gaza y cerebro de los ataques del 7 de octubre
+¿Qué busca María Corina Machado con llamado a militares y otros sectores en Venezuela? Maduro cambió la cúpula militar
+Beneficios de la transición energética: un encuentro con el Grupo Energía Bogotá
+Video | Gerard Piqué, 'vidente' del clásico de España: acertó la goleada del Barcelona y 'le echó sal' a la herida del Real Madrid
+La ‘apropiación cultural’ de una Uchuvauchuva
+Karol G reconstruyó su antiguo colegio en Medellín: la obra beneficiará a más de 600 niños
+Reclamo de motociclistas a varios conductores que se pasan semáforo en rojo: 'Tengo entendido que el rojo significa parar, no acelerar'
+Millonario robo en la localidad de Rafael Uribe Uribe: se estima que el hurto supera los $200 millones
+Fortaleza denuncia que intentaron contactar a jugadores de su plantel para amañar el resultado de un partido de la Liga BetPlay
+Humanizar la educación superior, un compromiso ineludible
+Las pistas que siguen las autoridades para recapturar a 'Pichi': identificaron personas que lo habrían ayudado
+Las cinco mejores recetas de jugos verdes y sus beneficios: desde desintoxicar el cuerpo hasta mejorar la digestiòn
+Israel difunde inédito video de Yahya Sinwar, jefe de Hamás, escondido en un túnel en Gaza horas antes del ataque del 7 de octubre
+Quería presumir como una ‘influencer’ millonaria y terminó en la quiebra tras mala administración de un préstamo
+Venecia volverá a cobrar una tarifa de entrada a los turistas que quieran visitar la ciudad en 2025: ¿cuánto tendrá que pagar?
 EN VIVO | Movilidad Bogotá hoy 11 de octubre: reportan accidente múltiple en la calle 100 y trancones en las salidas de la ciudad
+Atención: defensa de Uribe dice que borraron datos de celular y PC de llamado testigo estrella Juan Guillermo Monsalve
+El Renault Twingo E-Tech estará en el Salón de París
+Se revelan las primeras imágenes de Brayan Campo, señalado asesino de la niña Sofía Delgado, en poder de las autoridades
+Tres puntos claves de la estrategia con la que el Banco AV Villas va por una mayor cuota del mercado financiero
+Con ‘PotencIA’, Ministerio TIC promueve la producción tecnológica en las regiones
+Formulan pliego de cargos contra edil Dixon Carrascal en Bogotá, por enviar mensajes discriminatorios a empleadas mujeres
+'Retomar la inversión privada será un proceso gradual y lo vemos más fuerte para 2026': así está viendo Itaú a Colombia
+Imprenta Nacional dice que no va a frenar expedición de cédulas de extranjería por abrupta salida de aliada mexicana
+Atleta profesional frustró un supuesto intento de agresión sexual por parte de Sean 'Diddy' Combs a un hombre
+‘Con la COP16, Colombia va a ser el epicentro del mundo y protagonista de la construcción de soluciones para enfrentar la triple crisis planetaria’: ONU
+El Volkswagen Golf cumple 50 años
+Ante 73 delegaciones, presidente Petro habló de supuesto golpe de Estado en su contra por investigación del CNE a su campaña
+El derecho a reír y la palabra bonita
+Así fue la llamada al 911 del dueño del hotel donde murió Liam Payne, de One Direction: 'Está rompiendo toda la habitación'
+El huracán CNE
+Actuar por prudencia
+Amanece, que no es poco
+Corea del Norte envía tropas a Rusia y entra en la guerra en Ucrania: ¿por qué podría suponer una escalada significativa del conflicto?
+Las Naciones Unidas ¿para qué?
+¿Quiénes están detrás del extraño negocio de criptomonedas de Donald Trump que arranca con fallas en web y bajas ventas?
+Las pistas que siguen las autoridades para recapturar a 'Pichi': identificaron personas que lo habrían ayudado a escapar
+El Sofa cierra un fin de semana de color, 'cosplay' y disfraces en Corferias
+Casanare, con la vista en el mercado internacional
+Las empresas colombianas que tienen la mejor reputación corporativa del país, según estudio
+Reforma laboral: continúa el debate en la plenaria de la Cámara de Representantes
+Misión de la ONU acusa al Gobierno venezolano de Nicolás Maduro de crímenes de lesa humanidad en las elecciones de 2024
+¡Gane hasta $1.000.000 semanales con los productos de Banco Popular!
+¿Es verdad que el vinagre de manzana sirve para adelgazar? La ciencia revela el mito
+Chevrolet Equinox eléctrica ya está en preventa en el país
+Cabeza a cabeza
+El fuero presidencial
+¿Qué no queremos más?
+Los derechos y deberes en la 'jungla de asfalto'
+WhatsApp dejará de ser compatible en estos celulares Android e iPhone a partir de noviembre
+Gobierno corporativo sigue afectando la acción de Ecopetrol: su precio es el más bajo en 4 años
+Calculadora de montos de Renta Ciudadana ya está disponible: link y paso a paso para saber cuánta plata le pagarán del subsidio
+La coexistencia es vital
+¿Qué implica para el gobierno del presidente Gustavo Petro la nueva ola de paros de mineros y campesinos en 7 departamentos de Colombia?
+Defensa de Uribe dice que borraron datos de celular y PC de llamado testigo estrella Juan Guillermo Monsalve
+Los colores que usan las personas inteligentes en su ropa, según la psicología
+Selección Colombia alista su equipo titular sin mirar atrás para el partido contra Chile de la eliminatoria: las novedades
+Video | Caso de intolerancia en Bucaramanga: dos conductores se fueron a los golpes luego de intentar peligrosos adelantamientos
+¿Una Selección ‘levantamuertos’?... (Meluk le cuenta, opinión)
+Tropicalismo ‘nobelero’
+Ocho utilidades de su celular que tal vez desconozca
+COP16: una puerta al planeta azul y sostenible del Banco de Occidente
+Predecir el futuro: de Homero Simpson a Gustavo Petro
+Las Notas Musicales de Steve Winwood
+Se empieza a abrir paso el tren para el Valle del Cauca, anuncia la ministra del Transporte
+Líderes y empresas que construyen país. Entrevista a Felipe Bayón
+¿De qué se trata el 'Plan de la Victoria' de Ucrania con el que busca terminar la guerra con Rusia y qué obstáculos tiene?
+Sonda espacial Europa Clipper: el ambicioso proyect de la NASA que busca vida extraterrestre
+Fue al médico por un fuerte dolor de estómago y descubrió que tenía más órganos de los normales
+Ante 73 delegaciones, presidente Petro habló de supuestas amenazas contra su fuero presidencial tras investigación del CNE
+Hidracol, disponible en las Droguerías Colsubsidio
+Periodista que estaba en vivo descubrió, sin querer, a una pareja infiel: 'No lo puedo creer'
+El científico que más sabe sobre murciélagos en el país asegura que destruir los bosques donde estos habitan podría traer nuevas enfermedades al mundo
+Fiscalía ya oyó en declaración a poderoso funcionario del gobierno Duque sobre compra de Pegasus
+Dos tragedias y el mismo dolor en hogares de Cali y Candelaria porque sus hijas, Sofía Delgado y Michel Dayana González, fueron asesinadas por violadores en serie
+Nissan Magnite, cada vez más cerca de los mercados regionales
 
 
 Tema 1:
-0.004*"pichi" + 0.004*"menos" + 0.003*"mañana" + 0.003*"bogota" + 0.003*"veces" + 0.003*"recluido" + 0.003*"domicilio" + 0.003*"coexistencia"
+0.002*"bogota" + 0.002*"octubre" + 0.002*"cop16" + 0.002*"menos" + 0.002*"territorios" + 0.002*"nadaismo" + 0.002*"margarita" + 0.002*"dice"
 ------------------------------------
-Transforma tu vida con la Biblioteca de Psicología de El Tiempo
-'Asesinar a meteorólogos no detendrá los huracanes', denuncian amenazas por teorías de conspiración
-Proyecto de Ley revoluciona el futuro de las energías renovables
-Nissan Magnite, cada vez más cerca de los mercados regionales
-Su abuelo ahorró durante 70 años en un botellón y les heredó todo un tesoro de monedas antiguas que multiplicaron su valor
-Luto y dolor en Millonarios: confirman la muerte de querida persona que estuvo varios años en el club de Bogotá
-Mujer ibaguereña falleció tras recibir una puñalada durante las fiesta de Girardot: se investiga el caso
-Así será el SOFA 2024: una feria que trae cosplayers internacionales e integra gamers y figuras de la cultura geek
-Guho Cho, traductor de Cien años de soledad al surcoreano, habla sobre Han Kang, la Nobel de Literatura: ‘Un escritor siempre debe tratar temas que incomodan’
-Use este buscador para encontrar obras
-Atención: defensa de Uribe dice que borraron datos de celular y PC de llamado testigo estrella Juan Guillermo Monsalve
-Impactante choque de madrugada: carro de alta gama destruye apartamento en Fontibón
-Motociclista murió en un accidente de tránsito tras ser golpeado con la puerta de un carro mal estacionado en el norte de Bogotá
-La causa noble de Helena
-'Hoy el proceso es burocrático': Exfuncionario de Fiscalía habla sobre cambio para otorgar principios de oportunidad
-Video | Nueva modalidad de robo en TransMilenio en Bogotá: delincuentes fingieron caerse para hurtar celulares
-Uscis recomendó esta vía para presentar sus solicitudes porque 'evita errores'
+Colombia ha desarrollado 92 proyectos en la Antártida: ¿de qué tratan y cómo contribuyen a la preservación del planeta?
+Junior de Barranquilla vs. Deportivo Pereira, EN VIVO: siga acá el minuto a minuto del duelo de la Liga Betplay
+¿Carga su teléfono hasta llegar al 100 %? Una ingeniera explica por qué hay que evitar esta práctica y qué hacer en su lugar
+Se están robando hasta el agua en Bogotá: Empresa de acueducto descubrió red de tuberías ilegales
+Lágrimas negras
+Murió colombiana en Texas, Estados Unidos, a manos de su pareja: familia dice que el sospechoso tenía conductas agresivas
+¿Gobierno logró meter ficha en terna de Consejo de Estado para Corte Constitucional?
+Video | América, cada vez más líder, ya clasificó: con nómina alterna, venció en el remate del partido a un pobre Medellín
+Bioeconomía, nuevo modelo económico para Colombia
+León Benavente trae su ‘caos’ a Bogotá
+Pilas, padres de familia: estos son los cobros en colegios privados que la Alcaldía de Bogotá va a empezar a regular
+El Ejército de Israel reporta sirenas de alerta en ciudades al norte de Tel Aviv por una 'incursión aérea enemiga'
+Laura Villamil volvió a caminar: el hermano de la bailarina compartió un video en sus redes sociales dos meses después de sufrir las quemaduras en Andrés Carne de Res
+Una misteriosa estructura de más de 4 mil años de antigüedad fue descubierta durante la excavación para un aeropuerto en Grecia
+Aurora, la perrita que fue rescatada en Cartagena y viajó hasta Medellín para conocer a su nueva familia
+Pareja arrendó una casa con una habitación cerrada con llave, escucharon pasos y cuando descubrieron lo que había dentro quedaron atónitos
+Bogotá: este es el criminal capturado del Tren de Aragua quien fue el autor intelectual del atentado con granada, en María Paz, que dejó dos muertos y 10 heridos
+Lorelei Tarón, esposa de Falcao, habla del precio de la fama: ‘Cuido lo que es mío (…) Hay mujeres que se regalan mucho’
+Dieta del huevo: en qué consiste esta manera de alimentarse que puede contribuir a perder peso con este alimento rico en proteínas
+Expectativa por la salud del Rey Vallenato Egidio Cuadrado, quien continúa en una UCI en clínica de Bogotá: 'Sigue mal'
+Retoma de El Plateado
+Territorios para amar. COP16
+Descifrando a Murakami
+Tras sufrir por gol en El Alto, Jhon Jáder Durán es la gran esperanza de la Selección Colombia para el partido de eliminatoria contra Chile
+Economía Popular y los otros sectores a los que se les busca dar impulso con el 'Pacto por el Crédito'
+Nadaísmo 70
+Dane tiene trabajo con salarios de hasta $ 4 millones para 186 personas en nueva convocatoria: vea cómo postularse
+Albania planea construir un nuevo estado musulmán en su capital, ¿de qué se trata?
+Anif: se inicia asamblea anual del centro de pensamiento económico, que completa cinco décadas de trabajo y de aporte analítico al país
+¿El precio de la prudencia?
+Croacia, una oda a la belleza del Adriático: descubra tres ciudades imperdibles para su viaje
+Jardín Botánico abre sus puertas para celebrar Halloween, conozca eventos y horarios
+Programación de la COP16 para hoy 24 de octubre: eventos, conciertos y la agenda del cuarto día
+La Nasa muestra impactante cambio en el desierto del Sahara: están reapareciendo lagos
+Medellín: lo que hay detrás del intento de hurto a vehículo deportivo Camaro que terminó en balacera y dejó un muerto
+Avianca anuncia su 'bussines class' desde diciembre de 2024 para más rutas: estos serán los vuelos que la tendrán
+El Kia K3 y la camioneta K3 Cross sacaron el máximo puntaje
 McLaren y Lego, ¡342.817 piezas!
-Sergio Fajardo habló del accidente que sufrió en carretera: esto es lo que se sabe de su estado de salud
-Colombiano en Estados Unidos les pide a los latinos que dejen de pensar solo en mandar dinero a sus familias: ‘Lo comienzan a ver a uno como rico’
-El fuero presidencial
-Video| Atlético Nacional se acercó a la clasificación y hundió aún más a Envigado en la Liga BetPlay: goles y polémicas del juego
-Dos niños murieron tras ser envenenados por dulces que les dio una misteriosa mujer: lo que se sabe del caso que conmociona a Brasil
-Lecciones de moda según las pasarelas de Milán
-Los abogados de P Diddy solicitaron que su juicio sea en mayo 2025: ¿qué consecuencias trae esta decisión?
-Hoy ‘Pichi’, ¿mañana quién?
-Menos impuestos, más bebés
-Que el país sepa la verdad
-¿Por qué el alcalde Galán no está de acuerdo con declarar desastre por la situación del agua de Bogotá, como propuso el Presidente?
-Sir John Akomfrah demuestra lo que pasa cuando el arte y la tecnología se unen: así es su más reciente obra
-Ángel Barajas y su DT, Jairo Ruiz, reciben un apartamento tras ganar la medalla Olímpica en París
-Pánico en Cedritos, en el norte de Bogotá: taxista fue herido de gravedad cuando un pasajero habría intentado asaltarlo
+La inteligencia artificial hace su propio pronóstico para el partido de la Selección Colombia vs. Chile: resultado y goleadores
 Chris Hemsworth presta su voz a Optimus Prime en 'Transformers One'
-Néstor Lorenzo tiene otro dolor de cabeza: Asprilla es duda para el juego contra Chile
-Alias Pichi salió 14 veces del domicilio en el que estaba recluido en menos de 20 días: estos fueron sus últimos movimientos
-Defensa de Uribe dice que borraron datos de celular y PC de llamado testigo estrella Juan Guillermo Monsalve
-Estos son nueve hábitos que hacen las personas inteligentes para cuidar su felicidad
+Dian intensifica controles para verificar que comercios estén cumpliendo con la factura electrónica
+Fecode anuncia movilizaciones para este 23 de octubre en varias regiones del país: ¿por qué?
+Margarita
+Manzur, 'un maestro': semblanza de la mente y la obra del aclamado pintor colombiano
+Banco de Bogotá ha dispuesto $ 4 billones en cartera verde y anuncia más acciones en el marco de la COP16
+EN VIVO: el líder América de Cali recibe al Deportivo Independiente Medellín en la fecha 14 de la Liga BetPlay
+Metro de Bogotá: se conocieron las primeras fotos reales de los trenes del esperado sistema de la ciudad
+'Gafas', 'Zeus', 'Iván Márquez' y Santrich', algunos de los comparecientes ante la JEP que aprovecharon su libertad para reincidir
+El mundo se reúne en Cali en una COP atípica: los compromisos, las comunidades y los recursos financieros serán la clave
+Guerra interna del cártel en Sinaloa: ¿crisis en el Estado mexicano o percepción distorsionada?
+Ocho drones han sido derribados en medio de la Zona Verde de la COP16
+Reforma al sistema general de participaciones: así fue que se ganó el apoyo del presidente Petro el proyecto que dividió al gabinete
+Concejal de Apartadó, Antioquia, se salvó de morir calcinado tras incendio de su vehículo luego de grave accidente de tránsito
+'Los zoológicos estadounidenses claman por pandas y China se los proporciona con entusiasmo'; el imperfecto plan para 'salvar' a la especie
+¿Qué debe pasar con César Lorduy, presidente del CNE?
+Wilson Castañeda fue elegido nuevo presidente del comité de seguimiento al informe de la Comisión de la Verdad
+Van entregados 87 mil millones de pesos a Juntas de Acción Comunal para programa en la mira de la Procuraduría
+Matas más fuertes y mayor industrialización, los factores detrás del incremento en la producción de coca
+¿Cómo aplicar técnicas de gestión de cambio en nuestra vida?
+Ministro de Cultura anunció el reemplazo de Jorge Ignacio Zorro en el viceministerio de las Artes, ¿de quién se trata?
+La Selección Colombia femenina rozó la hazaña y estuvo 70 minutos por encima de Brasil, pero al final se quedó con un empate
+Descentralizar para cerrar brechas; ¿cuáles brechas?
+‘El sistema educativo debe poner a los estudiantes en el centro’: Segovia
+Bacteria E. coli: qué es, cuál es su efecto en la salud, los síntomas y cómo tratarla
+El largo camino hacia la paz
+Este es el Top 3 de los mejores bares del mundo: ¿cómo se evalúan estos lugares y quién dice si son buenos o no?
+Estos son los países que les paga a extranjeros por vivir en sus territorios y tener hijos
+Accidente con globo aerostático en Aguazul, Casanare, dejó una persona muerta: angustiantes momentos quedaron en vídeo
+Volver a 'Laudato Si'
+¿Por qué a la gente le gusta adelantar la Navidad y dicen que 'desde septiembre se siente diciembre'? Esta es la explicación de expertos
+Escuchar y analizar, claves para combatir la polarización
+La vida recién descubierta en los glaciares está condenada a desaparecer
+Nuevos detalles de investigación a Kylian Mbappé, quien está envuelto en caso de una presunta violación: esto dice la prensa
+Las barreras de atención para los casos de violencia de género en Bogotá
+Lecciones de moda según las pasarelas de Milán
+Colombiano sorprende al revelar que gana 12 millones como operario de maquinaria pesada en Canadá
+Lotería de Manizales, Valle y Meta: resultados y números ganadores del miércoles 23 de octubre del 2024
+Menos impuestos, más bebés
+Atención: España aprueba extradición del señalado zar del contrabando en Colombia; su defensa dice que alista recurso
 Alias Pichi salió 14 veces del domicilio en el que estaba recluido en menos de 20 días
-La coexistencia es vital
-Néstor Lorenzo tiene otro dolor de cabeza: Yaser Asprilla es duda para el juego contra Chile
-La madre de tres hijos con tumores en los pulmones a la que le dieron pocos años de vida y hoy es triatleta
+Canadá endurece su política migratoria: Marc Miller, Ministro de Inmigración, compartió las nuevas medidas
+Nairo Quintana se resiste a irse del ciclismo: estas son las razones por las que le 'huye' al retiro
+Así fue el operativo para rescatar a los militares que estaban secuestrados en El Plateado
+Joven era el heredero de una jugosa fortuna y luego de participar en un ‘reality’ tuvo que vivir en la calle
+Ejército desmonta retén que habían instalado las disidencias en la vía Panamericana, Cauca: Tenían una camioneta de alta gama
+Curso gratuito para formar a futuros líderes en tecnología blockchain
+Alemania, la potencia económica de Europa y un Estado con generosos servicios sociales, es un destino principal para los refugiados
+Citroën Basalt, lista la nueva camioneta cupé para Latinoamérica
+Cayó alias Nixon, señalado tanatólogo de las disidencias de 'Iván Mordisco', en Nariño
+Un año del ataque de Hamás a Israel y la guerra en Gaza que reactivó el conflicto en Oriente Medio: Líbano bombardeado e Irán en máxima alerta
+Sin agua y sin luz: el sector de Bogotá que tendrá racionamiento y corte de electricidad este jueves, 17 de octubre
+Estudio sobre la esperanza de vida de los recién nacidos de esta época demostró que vivirían menos
 
 
 Tema 2:
-0.003*"nadaismo" + 0.003*"no" + 0.003*"multa" + 0.002*"vocacion" + 0.002*"dureza" + 0.002*"colegas" + 0.002*"leccion" + 0.002*"casanare"
+0.003*"colombia" + 0.003*"bogota" + 0.002*"no" + 0.002*"juego" + 0.002*"tras" + 0.002*"años" + 0.002*"agua" + 0.002*"liga"
 ------------------------------------
-Las duras advertencias del Tribunal de Bogotá contra la jueza del caso del expresidente Álvaro Uribe: pudo haber provocado la nulidad del proceso y del juicio
-Avión atropelló a trabajador del aeropuerto y este sobrevivió de milagro: 'Estuve acostado debajo del avión durante siete minutos'
-Video | A Colombia le faltó ataque y tuvo que conformarse con el empate contra Corea del Sur en el Mundial Sub-17 femenino: los goles
-Denuncian nula participación femenina en grupos de rebeldes birmanos: 'Este es el momento de luchar contra todo tipo de opresión'
-Su mamá le había prometido un PlayStation 5 por su cumpleaños y le dijo que solo le había podido comprar un termo: después lo sorprendió
-Impactante video: dos orcas avistadas por primera vez en el Pacífico Colombiano
-‘Youtuber’, sorprendido por hallar a una comunidad que vive en cuevas subterráneas: ‘La gente retrocedió literalmente a la Edad de Piedra’
-Una lección de vocación
-Comienzan once días de fiesta teatral con el Fiav Bogota
-Carta de una fan que hoy lamenta la muerte de Liam Payne: ‘Pienso en la fragilidad de la vida y lo inesperada que puede ser’
-'Todos somos sospechosos': habla padre de Sofía Delgado, la niña desaparecida en Valle del Cauca; explica por qué es un caso complejo
-'La Semana del Oso Gordo': así funciona el curioso evento en Alaska
-Encuentran misteriosa 'puerta' en el hielo de la Antártida y las personas crean varias teorías al respecto
-Un año del ataque de Hamás a Israel y la guerra en Gaza que reactivó el conflicto en Oriente Medio
-Con ‘PotencIA’, Ministerio TIC promueve la producción tecnológica en las regiones
-Millonario robo en la localidad de Rafael Uribe Uribe: se estima que el hurto supera los $200 millones
-Nadaísmo 70
-Alcaldía de Aguazul se pronuncia tras tragedia por globo aerostático en Casanare, en la que un hombre murió: ‘No es el momento de señalamientos’
-Video: las reacciones de Richard Ríos que se volvieron virales en redes tras la derrota de Colombia vs. Bolivia
-Las pistas que siguen las autoridades para recapturar a 'Pichi': identificaron personas que lo habrían ayudado
-Multa no es golpe
-¿Todavía hay tiempo de salvar el proceso de paz con la guerrilla Eln, que lleva meses inmerso en una crisis?
-Denuncian nula participación femeina en grupos de rebeldes birmanos: 'Este es el momento de luchar contra todo tipo de opresión'
-Las pistas que siguen las autoridades para recapturar a 'Pichi': identificaron personas que lo habrían ayudado a escapar
-Video | Santa Fe vuelve a la gran final de la Copa Libertadores femenina y tendrá revancha contra Corinthians
-Colombiana en Londres les pide a quienes van muchos años en Inglaterra que dejen de desearle el mal a quienes recién llegan: ‘Hay espacio para todos’
-Nuevos detalles de investigación a Kylian Mbappé, quien está envuelto en caso de una presunta violación: esto dice la prensa
-'Todos somos sospechosos': habla padre de Sofía Delgado, niña desaparecida en Valle del Cauca; explica por qué es un caso complejo
-Casanare, con la vista en el mercado internacional
-La dureza entre colegas
-Niña de 13 años asesinó a sus hermanas menores y se lo confesó a su madre por mensaje de texto
-La millonada que tendría que pagar Ciro Quiñonez de indemnización por la pelea con Giovanny Ayala
-Descubre el cuerpo humano: una colección educativa y divertida
+Esto fue lo que le encontraron al conductor del BMW que se metió a la sala de un apartamento de Ciudad Salitre
+Los 4 'goles' que sindicato de futbolistas logró en acuerdo con Dimayor y la FCF en mesa con Mintrabajo
+Así está el nivel de agua en los embalses tras recientes lluvias en Bogotá; ¿qué tan lejos estamos del ‘día cero’?
 ¿Elección popular de jueces?
-Grupo Aval lanzará a finales de octubre nueva herramienta para enviar y recibir dinero
-En Chile están desesperados: Iván Zamorano estalla y habló de cómo mitigar el calor de Barranquilla
-'Gafas', 'Zeus', 'Iván Márquez' y Santrich', algunos de los comparecientes ante la JEP que aprovecharon su libertad para reincidir
-¿Cómo aplicar técnicas de gestión de cambio en nuestra vida?
-En video: tres vehículos destruidos, viviendas destechadas y cortes de energía dejan lluvias y vientos en el Meta
-¿De qué se trata el 'Plan de la Victoria' de Ucrania con el que busca terminar la guerra con Rusia y qué obstáculos tiene?
-El desacato no es gracioso
-Tesla presentó su robot humanoide 'Optimus': podría entablar una conversación como una persona
-Calculadora de montos de Renta Ciudadana ya está disponible: link y paso a paso para saber cuánta plata le pagarán del subsidio
-Harvard encontró un sustituto para el azúcar que tendría beneficios para los diabéticos
+Oso andino fue captado en video mientras paseaba por embalse de Chuza, en el páramo de Chingaza, donde antes había agua
+La millonada que tendría que pagar Ciro Quiñonez de indemnización por la pelea con Giovanny Ayala
+A puños y mordiscos ladrón le robó el celular a una mujer en Bogotá
+El hombre de 70 años que desafía la vejez con su increíble estado físico: tiene el cuerpo definido como si tuviera 30
+Adictos a mí
+Sir John Akomfrah demuestra lo que pasa cuando el arte y la tecnología se unen: así es su más reciente obra
+Aterriza en el Aeropuerto El Dorado el segundo vuelo humanitario con 105 colombianos evacuados desde Líbano
+Video muestra cómo un ladrón aprovecha el trancón por obras en Bogotá para robar a una pasajera de taxi: se fue como si nada
+Lotería de Bogotá y Quindío: estos son los resultados y números ganadores del jueves 10 de octubre del 2024
+La digitalización y el desafío de estar presente
+América vs. Millonarios, EN VIVO: dos de los grandes se ponen al día con la Liga BetPlay en uno de los clásicos del torneo
+Plantas que debería tener en su hogar antes de finalizar el año, según el Feng Shui
+Armada reporta el rescate de 22 migrantes en aguas de San Andrés: cinco menores estaban dentro del grupo
+Lleva tus platos a otro nivel con los indispensables de chef
+Conductor atropelló a motoladrones y evitó que le robaran las pertenencias a un joven en Barrancabermeja: todo quedó en video
+La Navidad en Estados Unidos es un auténtico viaje entre tradiciones y diversión
+'Abordamos la posibilidad de mayor inversión de Catar en Colombia': canciller Murillo tras agenda en Doha
+Motociclista murió en un accidente de tránsito tras ser golpeado con la puerta de un carro mal estacionado en el norte de Bogotá
+Urgente e importante
+Así ha subido y bajado la acción de Ecopetrol en comparación con las principales petroleras del mundo
+‘Venezuela no tiene ninguna información sobre posible muerte de Iván Márquez’: canciller Luis Gilberto Murillo
+Video| Atlético Nacional se acercó a la clasificación y hundió aún más a Envigado en la Liga BetPlay: goles y polémicas del juego
+Así será el SOFA 2024: una feria que trae cosplayers internacionales e integra gamers y figuras de la cultura geek
+Video | Vea el gol de Linda Caicedo en el triunfo del Real Madrid sobre el Celtic en la Liga de Campeones femenina
+¿Qué opina de la reunión de Petro con el cuerpo diplomático?
+Néstor Lorenzo confía en su idea de juego para que Colombia le gane a Chile en Barranquilla en la eliminatoria para el Mundial 2026
+¿Es malo dejar activado el Wi-Fi del celular cuando se sale de la casa? Esta es la alerta que hacen expertos
+Santa Fe sigue firme en la Liga Betplay y hundió a Patriotas: victoria en Tunja para acariciar la clasificación
+La desinformación galopa en Colombia, ¿y ahora qué? / Análisis del Editor Multimedia
+La mecánica nacional
+La travesía de ambientalistas en bicicleta que viajaron de Bogotá a Cali para la COP16 lanzando 'bombas de semilla'
+¿Siente que lo miran, pero en realidad no hay nadie? Esta es la explicación detrás del fenómeno
+¿Qué pasa si toma té de hierbabuena todas las noches?
+El extraño caso del hombre que desarrolló un tumor en su cuero cabelludo por practicar 'breakdance' por años
+Multa no es golpe
+Se cancela el concierto de Luis Alberto Posada en Bogotá: ¿cómo recuperar el dinero de las entradas?
+Estos son los usuarios que menos agua están ahorrando en  en Bogotá
+Estos son los usuarios que menos agua están ahorrando en medio de los racionamientos en Bogotá
+AViajar Colombia S.A.S. alerta sobre abusos de su identidad
+EN VIVO movilidad Bogotá 24 de octubre| Manifestación en avenida Boyacá causa congestión y afecta rutas de SITP
+Así se ha ido desmoronando el organigrama criminal del Tren de Aragua en Bogotá: estos son los principales cabecillas caídos
+Él es el cantante vallenato que entonó el himno en el partido de Colombia vs. Chile: 'Espero no ponerme nervioso y que no se me olvide la letra'
+¿Quiere trabajar en España? Estas son las ofertas laborales del Sena con sueldos de hasta 15 millones de pesos
+Video | Jhon Durán 'explotó' tras gol en Champions League: lanzó insultos, pateó el banquillo y tuvo que ser tranquilizado
+Colombia es pionera a nivel mundial: lanzó la Policía del Agua como antesala a la COP16
+Atención: liberan a la abogada Martha Lucía Granada, secuestrada en Jamundí, Valle; revelan detalles de cómo y dónde fue entregada por un grupo armado
+Le diagnosticaron cáncer cerebral y luego escribió una comedia romántica sobre el tema
+Habló expareja de Brayan Campo, confeso asesino de la niña Sofía Delgado: 'Yo no he hecho nada'
+EPM advierte que persiste riesgo de racionamiento energético en 2025: estas son las razones
+Este fue el elogio de Antonela Roccuzzo a Messi tras la contundente victoria de Argentina contra Bolivia en eliminatorias
+Con 'Megalopolis', de Coppola, la era de los fracasos regresa al cine
+Otra marca china se alista para el país: GAC International Motor
+La comida de los viajes espaciales podría estar basada en rocas
+Los seis hábitos que demuestran que tiene un cociente intelectual alto
+¿Es de los que se duerme en el bus y se despierta en su destino sin pasarse? Esta es la explicación científica
+Campeones mundiales en criminalidad
+Néstor Lorenzo tiene otro dolor de cabeza: Yaser Asprilla es duda para el juego contra Chile
+Serena Williams fue operada para extirpar un tumor en el cuello: 'Me siento tan agradecida y afortunada que todo salió bien'
+La niña que se salvó de Brayan Campo, el confeso asesino de Sofía Delgado; una familiar relató cómo pudo escapar cuando intentó plagiarla
+Edición Colombia: de ‘Pimpinero’ a ‘Los Iniciados 2’ y otros recomendados nacionales
+Descubren células que protegen el cerebro, pero también pueden atacarlo y causar enfermedades
+Silvestre Dangond dará concierto gratis en Colombia: ¿dónde y cuándo será? Todo lo que debe saber del evento
+Video | Millonarios tuvo que sufrir para derrotar a Fortaleza y lograr un triunfo importantísimo para acercarse a la clasificación
+Zeekr, debutó la marca premium de carros eléctricos en Colombia
+No soltar lobos entre las ovejas
+Video | El VAR da válido el gol al Manchester City en el final del juego contra Wolves y se arma la polémica
+EL TIEMPO lidera siembra para restaurar los cerros orientales, un ecosistema afectado por los incendios y la deforestation
+Miguel Varoni: 'Uno debe hacerse la cirugía que tiene que hacerse: soy pro-cirugía, soy pro-cremas, soy pro-bótox. Soy pro-todo'
+Video |Esta fue la razón por la que Jhon Jader Durán salió del campo tras marcar el gol en Champions y por lo que hizo 'pataleta'
+Indignante caso de maltrato animal en Bogotá: Policía rescata a 41 perros que permanecían hacinados dentro de una vivienda
+La dramática historia de amor de Liam Payne: ¿estaba obsesionado con su expareja Maya Henry?
+Investigan caída de hombre de un puente en Bogotá cuando al parecer evitaba un robo: testigo entregó detalles
+Israel plantea una nueva propuesta de tregua que incluye alto el fuego permanente en Gaza, ¿qué se sabe?
+Malestar en el Eje por escenarios deportivos sin terminar para los Juegos Nacionales
+Rechazo por niño de nueve años que entró a un hospital veterinario y desmembró a más de 20 animales
+Los 5 puntos clave del decreto que prohíbe los ‘carros de mula’ o vehículos de tracción animal en Barranquilla: ¿cuáles son las sanciones?
+‘Biohacker’ de 33 años, duerme en una jaula y se somete a varios tratamientos para vivir hasta los 150 años
+Su abuelo ahorró durante 70 años en un botellón y les heredó todo un tesoro de monedas antiguas que multiplicaron su valor
+¿Qué estaban haciendo los cuatro menores que fueron reportados como desaparecidos en Bogotá y por los que se desató una batalla campal? Esto dijo la Policía
+EN VIVO: alineaciones confirmadas para el clásico 316 entre Santa Fe y Millonarios en la Liga BetPlay; siga el minuto a minuto
+Padre diseñó un ingenioso disfraz para su pequeña y se roba toda la atención en redes sociales
+Las razones por las que el dólar en Colombia tiene el precio más alto del año
+Ángel Barajas y su DT, Jairo Ruiz, reciben un apartamento tras ganar la medalla Olímpica en París
+Selección Colombia baja en el escalafón de la Fifa, le salió salió caro perder contra Bolivia en la eliminatoria
+Clínica Colombia informa que Egidio Cuadrado sigue en UCI y desmiente rumores de su muerte
+Productor de 'Los Simpson' explicó cómo hicieron para 'predecir el futuro' y que varios hechos pasaran en la vida real
+Así le confesó Brayan Campo el crimen de la niña Sofía Delgado a su expareja: 'Nunca imaginé que fuera capaz'
+Neurólogo reveló el mal hábito que tienen las personas y con el cual dañan su cerebro
+Un menor de 9 años murió tras ser arrollado por una mujer en presunto estado de embriaguez
+EN VIVO: alineaciones confirmadas para el clásico 316 entre Santa Fe y Millonarios en la Liga BetPlay; siga el juego en vivo
+Néstor Lorenzo tiene otro dolor de cabeza: Asprilla es duda para el juego contra Chile
+Halloween ya no sólo es de dulces, ahora puede ser gourmet
+El emotivo video que grabó un piloto antes de que el avión se estrellara y muriera: ‘Vamos para el cielo, papacito lindo’
+Serena Williams fue operada con éxito para extirpar un tumor que le apareció en el cuello: 'Me siento tan agradecida y afortunada que todo salió bien'
 
 
 Tema 3:
-0.005*"años" + 0.003*"ecopetrol" + 0.003*"cop16" + 0.003*"nacional" + 0.003*"desarrollado" + 0.003*"mecanica" + 0.003*"brechas" + 0.003*"biopirateria"
+0.003*"unidos" + 0.002*"bogota" + 0.002*"sabe" + 0.002*"no" + 0.002*"momento" + 0.002*"minuto" + 0.002*"niños" + 0.002*"todossomosvoragine"
 ------------------------------------
-¿Qué pasa si toma té de hierbabuena todas las noches?
-Se están robando hasta el agua en Bogotá: Empresa de acueducto descubrió red de tuberías ilegales
-Descentralizar para cerrar brechas; ¿cuáles brechas?
-El Renault 4 regresó como un SUV eléctrico
-‘El sistema educativo debe poner a los estudiantes en el centro’: Segovia
-Así luce hoy la niña del meme viral de la mirada extrañada que muchos usan en WhatsApp
-Se filtraron las imágenes de la habitación donde Liam Payne, de One Direction, se hospedaba: había un televisor roto
-Territorios para amar. COP16
-Así ha subido y bajado la acción de Ecopetrol en comparación con las principales petroleras del mundo
-Comité Disciplinario de Dimayor respondió a Nacional y Junior, que repusieron sanciones por pelea entre hinchas de ambos clubes
-La mecánica nacional
-Lo que el Tribunal de Bogotá le ordena a juez del caso de Álvaro Uribe
-Comenzó el golpe… a Ecopetrol
-Reclamo de motociclistas a varios conductores que se pasan semáforo en rojo: 'Tengo entendido que el rojo significa parar, no acelerar'
-Plan retorno en Bogotá tras el puente festivo: hay pico y placa regional y otras medidas en las vías de entrada a la ciudad
-Colombia ha desarrollado 92 proyectos en la Antártida: ¿de qué tratan y cómo contribuyen a la preservación del planeta?
-Ministro de Cultura anunció el reemplazo de Jorge Ignacio Zorro en el viceministerio de las Artes, ¿de quién se trata?
-El Volkswagen Golf cumple 50 años
-EPM advierte que persiste riesgo de racionamiento energético en 2025: estas son las razones
-Comisionado de Paz, Otty Patiño, asegura que cese del fuego con la disidencia de 'Calarcá' se extenderá; tregua termina el 15 de octubre
-Expertos de la UNAL analizan el bien común aplicado a la realidad colombiana
-Una misteriosa estructura de más de 4 mil años de antigüedad fue descubierta durante la excavación para un aeropuerto en Grecia
-Niña de 8 años fue instrumentalizada para robar un celular en Engativá
-¿Se puede bajar de peso sin dejar las harinas? Estas son las rutinas de Harvard para lograrlo
-Economía Popular y los otros sectores a los que se les busca dar impulso con el 'Pacto por el Crédito'
-¿Cuál será el país de América del Sur más desarrollado en 50 años, según ChatGPT?
-Mujer fue detenida después de dejar solo a su hijo de 5 años para ir a una discoteca en España
-Miguel Varoni: 'Uno debe hacerse la cirugía que tiene que hacerse: soy pro-cirugía, soy pro-cremas, soy pro-bótox. Soy pro-todo'
-Comité Disciplinario de Dimayor respondió a Nacional y Junior, que repusieron sanciones por pelea entre hinchas
-Campesinos bloquean vías en Bolivia en rechazo a probable arresto del expresidente Evo Morales
-Video: susto en dos centros comerciales de Cali por inundaciones, tras fuertes lluvias
-Las razones por las que se aplazó audiencia contra hombre de mensajes racistas en contra de la vicepresidenta Francia Márquez
-Edición Colombia: de ‘Pimpinero’ a ‘Los Iniciados 2’ y otros recomendados nacionales
-¿Qué esperar de la extensión del cese del fuego entre el Gobierno y las disidencias de 'Calarcá' por seis meses más?
-Chevrolet Equinox eléctrica ya está en preventa en el país
-Dieta del huevo: en qué consiste esta manera de alimentarse que puede contribuir a perder peso con este alimento rico en proteínas
-Alemania, la potencia económica de Europa y un Estado con generosos servicios sociales, es un destino principal para los refugiados
-Canadá endurece su política migratoria: Marc Miller, Ministro de Inmigración, compartió las nuevas medidas
-Falleció Liam Payne a sus 31 años: así fue la vida del cantante británico y exintegrante de One Direction
+Partido Colombia-Chile: atención a las restricciones a la movilidad en Barranquilla
+Listo el texto
+Denuncian nula participación femenina en grupos de rebeldes birmanos: 'Este es el momento de luchar contra todo tipo de opresión'
+Camina por la cornisa
+#TodosSomosVorágine
+COP16: entregan de manera oficial la Zona Azul, escenario donde se tomarán las grandes decisiones ambientales del planeta
+Revelan las primeras imágenes de Brayan Campo, el confeso feminicida de Sofía Delgado, en la cárcel 'La Tramacúa' de Valledupar
+Nairo Quintana calienta motores para competir contra Egan Bernal y Rigo, tras aceptar reto en Bogotá: 'Alisten la bicicleta'
+¿Por qué América de Cali no ha vuelto a jugar con su tradicional camiseta roja escarlata?
+¿Cómo llegó hasta ahí? Graban a un perro en la punta de una pirámide de Giza en Egipto
+Comidas que si consumen en exceso pueden tener efectos negativos para el organismo
+'La vorágine más allá', una experiencia multidisciplinaria alrededor de la novela
+Tom Hardy habla sobre la última película de Venom: 'Creo en la naturaleza simbólica de los superhéroes para los niños'
+'La Semana del Oso Gordo': así funciona el curioso evento en Alaska
+Harris dijo qué haría con Venezuela si gana las elecciones de Estados Unidos
+‘Youtuber’, sorprendido por hallar a una comunidad que vive en cuevas subterráneas: ‘La gente retrocedió literalmente a la Edad de Piedra’
+Exclusivo: Fiscalía considera que sí hay indicios concretos sobre la compra de Pegasus en 2021
+Las camionetas de alta gama, Rolex y gemas que presume en redes el hombre que se hace llamar el nuevo 'zar de las esmeraldas' de Colombia
+Premios Macondo 2024: vote aquí por la mejor película colombiana del año
+Así es la Ley de Enemigos Extranjeros que Trump quiere usar para deportar a millones de inmigrantes de Estados Unidos
+CNE contra Petro: poniendo claro lo oscuro
+El sencillo truco para evitar que sus camisas tengan manchas de sudor: solo necesita dos ingredientes
 EN VIVO | Siga el minuto a minuto del plan retorno a Bogotá: finaliza el reversible en la Carrera 7 y se habilita la movilidad en ambos sentidos
-Video | Revelan la impactante cantidad de rayos sobre Barranquilla en las últimas horas: hay alerta para este fin de semana
-Los lujos y el poder de la mafia en El Plateado que el Ejército había denunciado desde hacía 3 años
-Biodiversidad y biopiratería
+Buscan alargar la vida con innovadora píldora: ¿de qué se trata?
+Los cinco precandidatos presidenciales del Centro Democrático se reunieron en un cónclave: ¿de qué hablaron?
+Video | A Colombia le faltó ataque y tuvo que conformarse con el empate contra Corea del Sur en el Mundial Sub-17 femenino: los goles
+'Influencer' latina murió tras ser atropellada en París: su esposo se enteró por un mensaje que le mandó el reloj que llevaba la mujer al momento del accidente
+Latinos que trabajan como obreros en Estados Unidos revelan cuánto ganan al mes y para qué les rinde
+Alfredo Morelos iba conduciendo en estado de embriaguez cuando causó el siniestro vial en Antioquia, indicó la Policía
+Pese al 'lobby' del chavismo en Rusia, Venezuela no logró entrar a los Brics: ¿qué busca realmente Nicolás Maduro con su visita a Kazán?
+El desacato no es gracioso
+La historia de la lujosa mansión y el conjunto residencial en Medellín de donde escapó alias 'Pichi'
+Gobierno entrega más de 5.500 hectáreas a 750 mujeres rurales en nueve departamentos
+Científicos resuelven el misterio de dónde viene la mayoría de meteoritos que caen en la Tierra
+Defensa de Uribe pide que se investigue a testigo estrella y a abogado por presunta destrucción de evidencia en su caso
+¿Cómo mantener la lechuga fresca hasta por 60 días? Estos son los trucos de un Chef
+Video: Ciclistas pedalearán 1.000 kilómetros entre Bogotá y Montería en la cuarta versión de ‘rodando por una sonrisa’
+La magia de vivir Halloween en Estados Unidos
+'Hoy el proceso es burocrático': Exfuncionario de Fiscalía habla sobre cambio para otorgar principios de oportunidad
+Así luce hoy la niña del meme viral de la mirada extrañada que muchos usan en WhatsApp
+Abuela intentó detener a ladrones que entraron a su casa con un abrazo: ‘Buscaban plata y joyas’
+Atención: defensa de Álvaro Uribe pide que se investigue a testigo estrella y a abogado por presunta destrucción de evidencia en su caso
 Así va la puja por la presidencia de la JEP: ¿quién suena para reemplazar al magistrado Roberto Vidal?
-Habló el polémico director de noticiero que despidió en vivo al periodista Gustavo Macalpin del canal 66 en México
-COP16 y gestión forestal
-Dejó la universidad para dedicarse a reciclar y hoy es un multimillonario que revolucionó una industria entera
-EN VIVO | Siga el minuto a minuto del plan retorno a Bogotá: finaliza el pico y placa regional
+Un fallo histórico para la democracia y la reconciliación
+UNGRD: esta es la evidencia que según Iván Name prueba que Sneyder Pinilla no fue a su casa a darle dinero
+Las duras advertencias del Tribunal de Bogotá contra la jueza del caso del expresidente Álvaro Uribe: pudo haber provocado la nulidad del proceso y del juicio
+Ocho alimentos que le ayudan a reducir la papada y cómo incorporarlos a su dieta
+El exsecretario mexicano de Seguridad Genaro García Luna es condenado en Estados Unidos a más de 38 años de cárcel por narcotráfico
+'Conmovidos y emocionados'
+Allende
+Teatro Colsubsidio, más allá de lo has visto 2024
+Los nuevos artículos que se aprobaron a última hora en el debate de la reforma laboral
+Denuncian que disidencias buscan que 'niños lleven paquetes cargados con explosivos para atacar tropas' en El Plateado
+Atención: Fue un fiscal de Bucaramanga el que avaló en 2020 la cuestionada casa por cárcel del prófugo alias Pichi
+Grupo Aval lanzará a finales de octubre nueva herramienta para enviar y recibir dinero
+Más de 260 siniestros viales y 17.300 comparendos dejaron la semana de receso y el puente festivo
+Fotos fijas con Antonio Skármeta
+Comienzan once días de fiesta teatral con el Fiav Bogota
+J Balvin estrena el video de 'SWAT': se grabó en el desierto de Dubai junto al puertorriqueño Luar La L
+Hombre de 42 años consiguió una incapacidad permanente y un millonario pago por su adicción al Heavy Metal: 'Padezco una situación de discriminación'
+Auxiliares de policía rescataron a una adolescente que se iba a lanzar de un puente en el norte de Bogotá: así fue el momento
+Hallan muerto a Guilherme ‘Bomba’ Vasconcelos, luchador brasileño de la UFC que fue novio de Demi Lovato
+¡Es momento de cuidar lo importante!
+Latina cuenta cuáles son los mejores estados para vivir y conseguir empleo en Estados Unidos: 'El primero te sorprenderá por su gran salario’
+Denuncian nula participación femeina en grupos de rebeldes birmanos: 'Este es el momento de luchar contra todo tipo de opresión'
+Colombiano en Estados Unidos pide que dejemos de romantizar a ese país: ‘Vivir aquí es difícil, acá tiene que demostrarse de qué está hecho’
+Identifican a hombre armado que 'planeaba' posible ataque contra Donald Trump en California: ¿qué se sabe?
+¿Busca empleo? Dollarcity tiene una amplia convocatoria de trabajo con diversos perfiles en varias ciudades de Colombia
+Su mamá le había prometido un PlayStation 5 por su cumpleaños y le dijo que solo le había podido comprar un termo: después lo sorprendió
+Los policías kenianos que volaron 11 mil kilómetros para luchar contra las pandillas de Haití
+El cereal que aporta hierro y ayuda a la producción de glóbulos rojos
+Víctor Muñoz, exfuncionario del gobierno Duque, habla tras versiones de NSO Group sobre Pegasus: 'Es muy importante que den todos los detalles'
+Los lujos y el poder de la mafia en El Plateado que el Ejército había denunciado desde hacía 3 años
+Sergio Fajardo habló del accidente que sufrió en carretera de Boyacá: esto es lo que se sabe de su estado de salud
+Atención: fuerte explosión estremece zona del casco urbano de Jamundí, Valle; el estallido ocurrió cerca de la estación de Policía
+Volcamiento de un camión en la autopista sur dejó a un hombre fallecido en Bogotá: autoridades investigan
+Dos niños murieron tras ser envenenados por dulces que les dio una misteriosa mujer: lo que se sabe del caso que conmociona a Brasil
+Sergio Fajardo habló del accidente que sufrió en carretera: esto es lo que se sabe de su estado de salud
+Luto en la Copa Sudamericana: un hincha de Lanús murió en el ingreso al estadio Mineirao, antes de la semifinal contra Cruzeiro
+Impactante video de atraco en establecimiento de Barranquilla: mujer se enfrentó con presuntos delincuentes
+Cáncer de ano: conozca los 3 signos de alerta que no puede dejar pasar por alto
+Director de la CAR Cundinamarca habla sobre la extracción de agua de empresa en La Calera: 'La comunidad no se opone'
+China presiona por más bebés: 'Si quieres o no tener hijos es una cuestión muy privada'
+Los resultados en seguridad vial nunca son buenos, son vidas que se pierden
+Esto es lo que crecerá la economía colombiana en 2024, según las nuevas proyecciones del Fondo Monetario Internacional
+El exgobernador, el exrector de la Unicartagena, los excongresistas y demás mencionados de 'Otoniel' que pasarán de la JEP a la Fiscalía y a la Corte
+Bogotá tiene un refugio para niños en uno de sus barrios más peligrosos: estos son los servicios que se ofrecen
+¿Por qué la red social Discord fue bloqueada por Rusia y Turquía? Esto se sabe
+Escapadas rápidas: 5 destinos imperdibles cerca de Bogotá para disfrutar este festivo
+Recorra los diez pisos del Centro Felicidad de Chapinero
+Director de 'Yo robot' acusó a Elon Musk de plagio en su Tesla Bot: ‘¿Puedo recuperar mis diseños?’
+Video | Dura acusación de empresario de jugadores en brutal pelea de hinchas en Brasil: ‘Policía dejó que nos mataran’
+Probamos las Triumph Speed 400 y Scrambler 400 X
+Más existencia, pero menos vida
+Fue un fiscal de Bucaramanga el que avaló en 2020 la cuestionada casa por cárcel del prófugo alias Pichi
+Pánico en Cedritos, en el norte de Bogotá: taxista fue herido de gravedad cuando un pasajero habría intentado asaltarlo
 
 
 Tema 4:
-0.003*"allende" + 0.003*"petro" + 0.003*"tras" + 0.003*"conmovidos" + 0.003*"naciones" + 0.003*"emocionados" + 0.003*"unidas" + 0.003*"rejas"
+0.003*"tres" + 0.002*"colombia" + 0.002*"niña" + 0.002*"caso" + 0.002*"policia" + 0.002*"reforma" + 0.002*"sofia" + 0.002*"delgado"
 ------------------------------------
-América 0 vs. Millonarios 0, EN VIVO: dos de los grandes se ponen al día con la Liga BetPlay, se juega el primer tiempo
-¿Fue Ronald Reagan el precursor de Donald Trump?
-Jennifer Lopez rompe el silencio tras su divorcio con Ben Affleck: ‘Estar en una relación no me define’
-CNE contra Petro: poniendo claro lo oscuro
-El Gobierno de Venezuela insiste en que María Corina Machado 'huyó' a España, ¿qué se sabe y qué dice la oposición?
-Predecir el futuro: de Homero Simpson a Gustavo Petro
-Wilson Castañeda fue elegido nuevo presidente del comité de seguimiento al informe de la Comisión de la Verdad
-Las Naciones Unidas ¿para qué?
-¿Por qué algunos países son ricos y otros pobres? Esto dicen los ganadores del Nobel de Economía 2024
-EN VIVO: Jhon Córdoba empata el juego entre Millonarios y Fortaleza, en la fecha 14 de la Liga BetPlay; sígalo en directo
-Néstor Lorenzo confía en su idea de juego para que Colombia le gane a Chile en Barranquilla en la eliminatoria para el Mundial 2026
-Le robaron un carro al 'influencer' conocido como el 'Mindo’, quien compartió los videos del hurto y las fotos del presunto delincuente
-Video | América, cada vez más líder, ya clasificó: con nómina alterna, venció en el remate del partido a un pobre Medellín
-¿Cómo ver su estado de cuenta del Icetex? Conozca el paso a paso para consultarlo en línea en 2024
-Investigan caída de hombre de un puente en Bogotá cuando al parecer evitaba un robo: testigo entregó detalles
-Probamos las Triumph Speed 400 y Scrambler 400 X
-Corte Constitucional reiteró competencias de la Procuraduría para sancionar a servidores públicos de elección popular
-Más de 260 siniestros viales y 17.300 comparendos dejaron la semana de receso y el puente festivo
-La inteligencia artificial hace su propio pronóstico para el partido de la Selección Colombia vs. Chile: resultado y goleadores
-El caso por el que la Corte Constitucional pidió que el cáncer de seno sea abordado desde la perspectiva de género
-América vs. Millonarios, EN VIVO: dos de los grandes se ponen al día con la Liga BetPlay en uno de los clásicos del torneo
-Hezbolá amenaza a Israel con más ataques tras el letal bombardeo contra una base militar y muestra video con arsenal
-Atención: Fue un fiscal de Bucaramanga el que avaló en 2020 la cuestionada casa por cárcel del prófugo alias Pichi
-La historia del Clan Castaño como nunca antes se ha contado.
-Fue un fiscal de Bucaramanga el que avaló en 2020 la cuestionada casa por cárcel del prófugo alias Pichi
-Allende
-'¿Quién filtró la decisión de revocatoria?': ministra de Justicia sobre la fuga de ‘Pichi’
-Las Notas Musicales de Steve Winwood
+Niña de 8 años fue instrumentalizada para robar un celular en Engativá
+Comité Disciplinario de Dimayor respondió a Nacional y Junior, que repusieron sanciones por pelea entre hinchas de ambos clubes
+Pegasus: ¿qué tanto puede espiar la inteligencia de un país a ciudadanos sin orden judicial?
+Calendario lunar 2024: los mejores días para cortarse el cabello y depilarse en noviembre
+Llano 7 días
+Responsable de tres casos de abuso sexual a niños fue capturado por la Policía en Bogotá
+Falleció Liam Payne a sus 31 años: así fue la vida del cantante británico y exintegrante de One Direction
+Aleida
+¿Quién es Eric Adams? El desconcertante e ilimitado alcalde de Nueva York
+Habilitan la cesión del segundo tramo del Túnel del Toyo para Antioquia y Medellín
+La Sala de Laura, de Bogotá, es el bar número 44 del mundo, según The World's 50 Best Bars
+Desmantelan red de corrupción relacionada con apuestas ilegales durante la Eurocopa 2024: hay más de 5.100 detenidos
+Los glaciares en Colombia están condenados a desaparecer: el hielo en los picos nevados no es ni la décima parte de lo que era y el daño es irreversible
+COP16: Gobernadores y autoridades ambientales firmaron histórico decálogo por la biodiversidad del Caribe colombiano
+Los tres puntos claves de la estrategia con la que el Banco AV Villas, de Grupo Aval, va por una mayor cuota del mercado financiero
+COP16: Alcaldes colombianos piden unirse contra la deforestación ocasionada por las economías ilegales
+Video: fanáticos de One Direction hicieron emotiva despedida a Liam Payne frente al hotel donde murió en Buenos Aires
+Video| Extorsionadores detonaron un explosivo en un local: uno resultó herido y fue abandonado por sus cómplices
+Perseo embolatado
+'Todos somos sospechosos': habla padre de Sofía Delgado, niña desaparecida en Valle del Cauca; explica por qué es un caso complejo
+Policía arrestó a hombre que vendía pizzas con cocaína en Alemania: 'Eran de los productos más vendidos'
+Aumentado el efecto multiplicador: por más mujeres empresarias
+¿Cómo es que 'la plata' es clave en los objetivos de la COP16?
+Ganar con trampa no es ganar
+Opositor Edmundo González tuvo que ser atendido en un hospital en España tras sufrir leve accidente: este es su estado de salud
+Dos temas: aprueban reforma laboral en Cámara / ¿Quisiera saber cómo es la salud emocional de su pareja antes de casarse?
+Celebrar a McCartney en Bogotá
+Montaña en Australia lleva 6.000 años ardiendo en fuego y no es un volcán: nadie ha encontrado la explicación
+De no creer: exjugador del Real Madrid que anunció que iba a ser padre se da cuenta que el bebé no es suyo
+Hoy ‘Pichi’, ¿mañana quién?
+Alquiló un apartamento por Airbnb y se lo entregaron totalmente sucio: hasta el televisor se robaron
+(Fotos) Él es Brayan Campo, señalado asesino de Sofía Delgado, niña que había sido reportada como desaparecida en Valle del Cauca: fingía en redes buscar a la menor
 El hábito que Jennifer Aniston, Michelle Obama y Bill Gates incorporan a sus rutinas para estimular el cerebro
-El Ejército de Israel reporta sirenas de alerta en ciudades al norte de Tel Aviv por una 'incursión aérea enemiga'
-Científicos resuelven el misterio de dónde viene la mayoría de meteoritos que caen en la Tierra
-Colombiano en Estados Unidos pide que dejemos de romantizar a ese país: ‘Vivir aquí es difícil, acá tiene que demostrarse de qué está hecho’
-¿Cuáles son las ventajas y desventajas de comer frutos secos?
-Curso gratuito para formar a futuros líderes en tecnología blockchain
+Protestas campesinas
+En un caso que duró una década, los criminales sacaron provecho del vino falso, dice la policía
+Nicolás Arrieta habló sobre el video en el que se va a los golpes con un vecino: 'Me ataca primero'
+Liam Payne: ¿cómo inició su carrera en One Direction y qué hizo tras el final del grupo ?
+Los abogados de P Diddy solicitaron que su juicio sea en mayo 2025: ¿qué consecuencias trae esta decisión?
+Video | Carlos Sainz se aferra a su última opción de pelearle el título de la F1 a Max Verstappen: hizo la 'pole' en el GP de México
+Estas son las identidades de los dos capturados por el asesinato de Sofía Delgado: publicaban fotos de la niña en sus redes
+El impresionante cambio de Marlon Restrepo, exparticipante del Desafío 2004
+Miguel Ángel Borja recibió una buena noticia: la justicia argentina archivó el caso en su contra por violencia intrafamiliar
+Los 19 días de búsqueda de Sofía Delgado, la niña de 12 años cuyo asesinato indignó a los colombianos
+Las tres impunidades
+Golpe a 'Iván Márquez', Policía Antinarcóticos destruyó laboratorio bajo su control que procesaba 3 toneladas de cocaína pura al mes
+¿Quién es el jugador de Envigado que habría ofrecido dinero en caso de amaño de partidos de la Liga Betplay? Le contamos
+Néstor Lorenzo, seleccionador de Colombia, está entre los 50 mejores técnicos del mundo, para una publicación inglesa
+¿Cuál será el país de América del Sur más desarrollado en 50 años, según ChatGPT?
+Video: las reacciones de Richard Ríos que se volvieron virales en redes tras la derrota de Colombia vs. Bolivia
+Rechazan tutela del congresista Heráclito Landinez contra el CNE por investigación a la campaña del presidente Petro
+Corte salvó la norma que regula la sobretasa al sector minero energético fijado en la reforma tributaria
+Le robaron un carro al 'influencer' conocido como el 'Mindo’, quien compartió los videos del hurto y las fotos del presunto delincuente
+Primicia: estos son los tres coroneles de la Policía de Colombia llamados a curso de general
+Exclusivo: habla la conductora que atropelló a niño de 9 años tras perder el control de BMW
+'Todos somos sospechosos': habla padre de Sofía Delgado, la niña desaparecida en Valle del Cauca; explica por qué es un caso complejo
+El último y triste adiós a Sofía Delgado, la niña asesinada por Brayan Campo y cuyo cuerpo dejó en un cañaduzal de Candelaria
+Baile catalán en el Bernabéu: Barcelona aplastó con categórica goleada al Real Madrid y se quedó con el clásico de España
+Duro enfrentamiento entre el presidente Gustavo Petro y el expresidente Álvaro Uribe por la reforma laboral
+Así fue el ‘último baile’ de la reforma laboral en la Cámara de Representantes: aprobaron 12 artículos y hundieron 104
+(Fotos) Así quedó el local del presunto asesino de la niña Sofía Delgado: comunidad quemó el lugar y Policía tuvo que intervenir disturbios
 Video: así fue el nuevo golpe contra la minería ilegal en Farallones de Cali: 13 capturados y más minas cerradas
-¿Una Selección ‘levantamuertos’?... (Meluk le cuenta, opinión)
-¿Por qué la red social Discord fue bloqueada por Rusia y Turquía? Esto se sabe
-Ante 73 delegaciones, presidente Petro habló de supuestas amenazas contra su fuero presidencial tras investigación del CNE
-Vea en 3D cómo se vive tras las rejas
-Atención: fuerte explosión estremece zona del casco urbano de Jamundí, Valle; el estallido ocurrió cerca de la estación de Policía
-'Conmovidos y emocionados'
+Así fue la reunión entre Xi Jinping y Vladimir Putin en el marco de la cumbre de los Brics en Rusia
+Perú salió de la cola de la eliminatoria, derrotó a Uruguay y le ayudó a Colombia a mantener el segundo lugar de la tabla de posiciones
+Tras fuertes lluvias reportan crecientes súbitas en algunos afluentes del río Bogotá
+Reforma Agraria avanza a ritmo acelerado en el Meta
+Video | Erling Haaland no para de sorprender: vea su impresionante golazo con el Manchester City en la Champions
+¿Cuáles son las ventajas y desventajas de comer frutos secos?
+¿Cuál sería la posible condena de Brayan Campo, capturado por el asesinato de Sofía Delgado, la niña de 12 años que había desaparecido en Valle del Cauca?
+El «compañerismo» en el trabajo
+Famosa surfista muere luego de encontrarse con un pez espada que le atravesó el pecho: 'Murió haciendo lo que amaba'
+Papá, mamá, ¿me dejan jugar Roblox una hora?
+Video | Andrés Mosquera Marmolejo, arquero de Santa Fe, y sus cuatro espectaculares atajadas en la misma acción, contra Patriotas
+¿Qué nos duele en Colombia?
+Hoy se podrá ver la lluvia de estrellas Oriónidas: ¿desde qué hora y cómo ubicarlas?
+Donald Trump reveló qué cargo le dará a Elon Musk si gana las elecciones de EE. UU.
+La JEP llamó a declarar a siete exmilitares, entre ellos tres generales, por 'falsos positivos' en el sur del Valle y norte del Cauca, ¿quiénes son?
+Las claves de la investigación contra Kylian Mbappé por presunto abuso sexual: el caso genera alerta al fútbol mundial
+El ‘Top 10’ de películas de terror en Netflix para asustarse en este Halloween 2024
+Biodiversidad y biopiratería
+Great Wall Motors trae sus carros híbridos y eléctricos
+Mujer ibaguereña falleció tras recibir una puñalada durante las fiesta de Girardot: se investiga el caso
+No tenía síntomas y  le diagnosticaron un raro tipo de cáncer: ‘Comprendí que el cansancio, la sudoración y la picazón estaban relacionadas’
+EN VIVO: Nacional y Envigado juegan a puerta cerrada en el estadio Atanasio Girardot, en la fecha 14 de la Liga BetPlay
+Los huesos de Colón
+Corea del Sur dice estar lista ante escalada en tensiones con drones con el Norte
+'¿Quién filtró la decisión de revocatoria?': ministra de Justicia sobre la fuga de ‘Pichi’
+‘History’, la conmovedora canción de Liam Payne que sus fans hoy recuerdan en su despedida
+Embajada de Colombia en Francia pide quitar cartel publicitario que 'estigmatiza' a los colombianos
+Lo que el Tribunal de Bogotá le ordena a juez del caso de Álvaro Uribe
+Las acciones que las disidencias de ‘Mordisco’ quieren implementar en El Plateado para sabotear la operación de la Fuerza Pública
+Capo invisible de la mafia italiana, capturado en Medellín, tenía lujosa pizzería en Cartagena
+¿Por qué somos pobres si Colombia es rica?
+Estos son los tres poderosos aviones de combate con los que Colombia podría remplazar los Kfir de la FAC
+Comprar cosecha de coca: una radiografía del problema para entender si es viable la propuesta del Presidente Petro
+Santiago Puentes, uno de los fundadores de Sajú, y su invitación a 'tachar' sin miedo lo que nos parece imposible
+Encontró una escalera en medio del bosque y decidió inspeccionar a dónde llevaba: 'Es uno de los lugares más espeluznantes'
+¿Kamala Harris podrá mantener su ventaja ante Donald Trump 'ad portas' de las elecciones en Estados Unidos? Las razones detrás de su ligero desplome en las encuestas
+Más de un millón de pesos podría costar una licencia de conducción fraudulenta: así son las trampas al sistema
+Exclusivo: los chats en los que jugador del Envigado FC habría ofrecido soborno para inventar un penalti
+Mieloma múltiple: los síntomas de alerta de este este raro tipo de cáncer y quiénes tienen mayor riesgo de padecer la enfermedad
+Videos de usuarios captan como motociclistas invaden puentes peatonales y andenes
+Piangüeras del Pacífico: ‘Sentimos que alguien cree en nosotras’
+Rechazan tutela del congresista Heráclito Landínez contra el CNE por investigación a la campaña del presidente Petro
+Carolina Virgüez, ¿quién es la estrella colombiana del teatro brasileño que actuó en Crepúsculo y ahora viene al FIAV?
+El auge de las mascotas en Corea del Sur, un reflejo del cambio demográfico y social: 'Los perros son familia'
+¿Cómo cultivar cúrcuma en casa? Consejos y beneficios de esta planta
+De lesa humanidad
 
 
 Tema 5:
-0.004*"todossomosvoragine" + 0.004*"bogota" + 0.004*"inicio" + 0.003*"direction" + 0.003*"liam" + 0.003*"payne" + 0.003*"exintegrante" + 0.003*"liberado"
+0.002*"no" + 0.002*"muerte" + 0.002*"liam" + 0.002*"payne" + 0.002*"bogota" + 0.002*"tras" + 0.002*"vida" + 0.002*"personas"
 ------------------------------------
-Aurora, la perrita que fue rescatada en Cartagena y viajó hasta Medellín para conocer a su nueva familia
+Video sensible | Hinchas de Santa Fe atacaron con machete y disparos a aficionados de Millonarios antes del clásico capitalino
+Estos serían los vehículos exentos del IVA, según la nueva Ley de Financiamiento: conozca las particularidades
+La vida de Juanes, Aicardi y Calamaro por el Fan Fatal
+Por órdenes de la Corte, la UNP deberá establecer ‘parámetros objetivos’ para evaluar el riesgo de los solicitantes de protección
+Psicóloga asegura que no debería darle segundas oportunidades a estas personas
+El truco de combinar el pan con otros alimentos para que no sea tan malo para la salud
+Este es el país menos visitado del mundo, esconde un maravilloso mundo marino y hermosas playas vírgenes
+Crece la tensión en Oriente Medio: Hezbolá lanza 80 proyectiles contra Israel
+‘El analfabetismo emocional nos está enfermando’: la experta Lina Rubiano habla de las ventajas de la medicina china
+Ruth Chepngetich pulverizó todos los tiempos en el Maratón de Chicago: batió récord mundial para entrar en la historia
+Ryan Castro recibió una lujosa joya de 1.200 diamantes después de su concierto en Medellín
+Video | Sebastián Montoya soltó el 'bombazo' y acabó con el misterio: 'Voy a correr en Fórmula 2 el próximo año'
+El Gobierno de Venezuela insiste en que María Corina Machado 'huyó' a España, ¿qué se sabe y qué dice la oposición?
+El Plateado: el ‘Wall Street’ de la coca al que el Estado llega después de décadas de control de narcos y guerrillas
+Andrea Bocelli lanza un álbum de dúos con Karol G, Marc Anthony y 30 artistas más de todo el mundo
+Video | Revelan la impactante cantidad de rayos sobre Barranquilla en las últimas horas: hay alerta para este fin de semana
+Encuentran misteriosa 'puerta' en el hielo de la Antártida y las personas crean varias teorías al respecto
+Arturo Vidal la volvió a hacer: subió una foto suya durmiendo, esta vez, porque su equipo, Colo Colo, va de líder en el fútbol chileno
+La voz de los gremios de la región
+Los antecedentes penales de 'El Rolo', señalado por la Policía de ser el homicida del reconocido ciclista Marlon Pérez
+'Asesinar a meteorólogos no detendrá los huracanes', denuncian amenazas por teorías de conspiración
+Impactante choque de madrugada: carro de alta gama destruye apartamento en Fontibón
+Este es el veterano de guerra estadounidense que murió en Pereira en extrañas circunstancias
+¿Qué esperar de la extensión del cese del fuego entre el Gobierno y las disidencias de 'Calarcá' por seis meses más?
+Caso de sicariato en Bogotá: un hombre le propinó cinco disparos a su víctima a las afueras de un gimnasio
+Los dos billones de pesos en lujosos bienes que señalado capo exige que la Fiscalía devuelva
 Un día entendiendo la realidad de quienes habitan la calle en Bogotá: 'Te quita la venda de los ojos'
-Esto fue lo que le encontraron al conductor del BMW que se metió a la sala de un apartamento de Ciudad Salitre
-El Gobierno de Venezuela insiste en que María Corina Machado 'huyó' a España: esto le respondió la líder opositora
-¿Qué hacía Liam Payne, exintegrante de One Direction, en Argentina? Esto es lo que se sabe
-Tropicalismo ‘nobelero’
-La vía aérea, el verdadero salvavidas de Alaska, donde casi todo llega por avión
-Donald Trump reveló qué cargo le dará a Elon Musk si gana las elecciones de EE. UU.
-¿Siente que lo miran, pero en realidad no hay nadie? Esta es la explicación detrás del fenómeno
-¿Quiénes están detrás del extraño negocio de criptomonedas de Donald Trump que arranca con fallas en web y bajas ventas?
-Liam Payne: ¿cómo inició su carrera en One Direction y qué hizo tras el final del grupo ?
-¿Quién era la novia de Liam Payne, exintegrante de One Direction, quien falleció a sus 31 años?
-Nairo Quintana calienta motores para competir contra Egan Bernal y Rigo, tras aceptar reto en Bogotá: 'Alisten la bicicleta'
-Nicolás Arrieta habló sobre el video en el que se va a los golpes con un vecino: 'Me ataca primero'
-La cruel dictadura
-Murió colombiana en Texas, Estados Unidos, a manos de su pareja: familia dice que el sospechoso tenía conductas agresivas
-Con trancones se inició el antigolpe
-Celebrar a McCartney en Bogotá
-Dos temas: COP16, los protectores de la biodiversidad desde las comunidades afro / La guerra Irán-Israel
-Liam Payne: este fue el último video del exintegrante de One Direction que falleció
-¿Podría ser liberado?
-Estos son los cinco nuevos embajadores en Colombia que presentaron sus cartas credenciales al presidente Gustavo Petro
-COP16: entregan de manera oficial la Zona Azul, escenario donde se tomarán las grandes decisiones ambientales del planeta
-Bogotá: este es el criminal capturado del Tren de Aragua quien fue el autor intelectual del atentado con granada, en María Paz, que dejó dos muertos y 10 heridos
-Accidente con globo aerostático en Aguazul, Casanare, dejó una persona muerta: angustiantes momentos quedaron en vídeo
-Carolina Virgüez, ¿quién es la estrella colombiana del teatro brasileño que actuó en Crepúsculo y ahora viene al FIAV?
-Citroën Basalt, lista la nueva camioneta cupé para Latinoamérica
-¿Qué hacía Liam Payne, ex integrante de One Direction, en Argentina? Esto es lo que se sabe
-#TodosSomosVorágine
-Denuncian que disidencias buscan que 'niños lleven paquetes cargados con explosivos para atacar tropas' en El Plateado
-¡Es momento de cuidar lo importante!
+Las nueve frases que debe decirse al día para ganar autoconfianza, según la psicología
+El regreso de los casetes trae un gran dilema: no se consiguen grabadoras
+Dictamen de Medicina Legal sobre Alexis Delgado confirmó que fue víctima de abuso y reveló las causas de su muerte
+Las 'Casas de tortura': así eran las escalofriantes fundaciones de 'rehabilitación' en Bucaramanga en donde secuestraban y abusaban de población vulnerable
+EN VIVO | Paro de campesinos y mineros: hay bloqueos en las vías de siete departamentos del país; personas son afectadas por desabastecimiento de alimentos
+Jugando con Pdvsa
+Más de mil personas se van cada día de Colombia para no regresar
+'Entre más se afecte nivel de vida de campesinos y jornaleros, más crecerán las economías ilícitas': Petro tras eliminación de artículos de la laboral
+La historia del Clan Castaño como nunca antes se ha contado.
+Steve Jobs iniciaba sus reuniones con la misma pregunta para mejorar la productividad, innovación y concentración
+Video | Santa Fe vuelve a la gran final de la Copa Libertadores femenina y tendrá revancha contra Corinthians
+Familia de Liam Payne reacciona tras su muerte en un hotel de Buenos Aires, Argentina: 'Estamos desconsolados'
+Aquí y ahora
+Recuerda que Polvo eres...
+Alerta en Cauca: hostigamientos simultáneos a Fuerza Pública en varios municipios del departamento
+Atención: encontraron a la familia colombiana que había desaparecido en México tras un paseo
+¿Por qué el alcalde Galán no está de acuerdo con declarar desastre por la situación del agua de Bogotá, como propuso el Presidente?
+El orgasmo y su evolución / Sexo con Esther
+La extraña desaparición de pareja de Galapa, Atlántico, durante un retén en México: esto es lo que se sabe
+COP16 en Cali EN VIVO | Empieza la inauguración de la cumbre tras la llegada del presidente Gustavo Petro; siga el minuto a minuto
+COP16: la ventana al futuro que es la agricultura regenerativa
+Video | Nueva modalidad de robo en TransMilenio en Bogotá: delincuentes fingieron caerse para hurtar celulares
+Lotería de la Cruz Roja y el Huila: resultados y números ganadores del martes 22 de octubre del 2024
+'Es una operación político-militar, en donde los militares tienen que cumplir con su papel, ya lo cumplimos', comandante del Comando Específico del Cauca sobre 'Perseo'
+Jennifer Lopez rompe el silencio tras su divorcio con Ben Affleck: ‘Estar en una relación no me define’
+Polonia cierra consulado ruso y advierte a Moscú de las consecuencias de sus actos
+Carta de una fan que hoy lamenta la muerte de Liam Payne: ‘Pienso en la fragilidad de la vida y lo inesperada que puede ser’
+Atención: decretan toque de queda en Villagorgona, Candelaria por crimen de Sofía Delgado
 ¿Qué es algo que nunca debe suceder?
+Encuentran sin vida a menor de dos años que había sido reportado como desaparecido en San Cayetano, Cundinamarca
+Colombia sigue de segunda en la eliminatoria para el Mundial 2026, gracias a la derrota de Uruguay: así va la tabla de posiciones
+Las últimas imágenes de Liam Payne, momentos antes de morir
+Fórmula 1 | Charles se sacudió y ganó el GP de Estados Unidos en un dominio de Ferrari: la lucha Norris - Verstappen acabó con polémica
+Si se confirma la muerte de ‘Iván Márquez’, ¿quiénes heredarían el mando en la ‘Segunda Marquetalia’?
+Uscis recomendó esta vía para presentar sus solicitudes porque 'evita errores'
+Saberes ancestrales y la protección del río cauca en la COP16
+El Citroën C3 Aircross llegó a Colombia en tres versiones desde 85 millones de pesos
+Parques en riesgo
+Hezbolá amenaza a Israel con más ataques tras el letal bombardeo contra una base militar y muestra video con arsenal
+'Soy alcohólico. Soy drogadicto. Soy homosexual. Soy un genio'. 100 años de Truman Capote, el autor de A sangre fría y Música para camaleones
+¿Cuáles serían las consecuencias de sacar el Presupuesto General de la Nación del 2025 vía decreto?
+¿Fue Ronald Reagan el precursor de Donald Trump?
+Denuncian que le estarían pagando a los habitantes de calle para tirar piedras a los carros en Medellín
+Rupturas
+EN VIVO | Siga el minuto a minuto del plan retorno a Bogotá: finaliza el pico y placa regional
+Caza Cocinas, emprendimientos culinarios
+La raza de perro que destronó al border collie como el más inteligente: hay un nuevo estudio
+Pico y placa solidario en Bogotá: lo que hay tras las quejas por fallas en la página web para acceder al permiso
+Una realidad que podemos cambiar
+Con participación de María Corina Machado, un grupo mujeres líderes crean movimiento en favor de la democracia en Iberoamérica
+Así es la Ley de Enemigos Extranjeros que Donald Trump quiere usar para deportar a millones de inmigrantes de Estados Unidos
+Video | Arturo Vidal reacciona con rabia al gol de Dávinson Sánchez con el que Colombia se fue arriba contra Chile en la eliminatoria
+Liderazgo en la era de la IA: oportunidades y riesgos
+Taiwán moviliza barcos patrulleros ante la presencia de buques chinos cerca de la isla
+Comité Disciplinario de Dimayor respondió a Nacional y Junior, que repusieron sanciones por pelea entre hinchas
+El Gobierno de Venezuela insiste en que María Corina Machado 'huyó' a España: esto le respondió la líder opositora
+Así reacciona el mundo de la música a la muerte de Liam Payne, exintegrante de One Direction, en Buenos Aires, Argentina
+El arte llega a la COP16: le contamos sobre la programación de más de 30 obras de teatro que se presentarán en Cali
+Economía de Colombia crecería un 0,5 % adicional en el 2025 con el pacto para desembolsar más créditos
+Un año del ataque de Hamás a Israel y la guerra en Gaza que reactivó el conflicto en Oriente Medio
+Video | Kevin Quintero, medalla de bronce en el keirin del Mundial de ciclismo de pista, sensacional el colombiano
+Caso de sicariato en Bogotá: un hombre le propinó cinco disparos a su víctima a las afueras de un gimnasio
+Arqueólogos habrían descubierto 'huevos' de dinosaurio de una especie desconocida en China
+En video: tres vehículos destruidos, viviendas destechadas y cortes de energía dejan lluvias y vientos en el Meta
+OMS revela cuánto debe caminar una persona mayor a 50 años al día para extender su expectativa de vida
+Colombiano en Estados Unidos les pide a los latinos que dejen de pensar solo en mandar dinero a sus familias: ‘Lo comienzan a ver a uno como rico’
+Defensoría del Pueblo creará mecanismo para denunciar la violencia sexual de forma confidencial
+Se conoce el video del robo masivo en un bus que recorría la vía Panamericana: pasajeros vivieron momentos de pánico
+Cometa Tsuchinshan-Atlas: últimos días para verlo antes de que desaparezca por 80.000 años
+Avanzan las obras del metro de Bogotá: se funde la primera columna en la avenida Caracas
+Estamos Transformando la Educación en Colombia: Aprueba Xtreme
+El exceso de velocidad y las acciones del Distrito para reducirlo
+Ministra de Trabajo habló sobre el incremento del salario mínimo: pidió calma frente a especulaciones
+Dos temas: la reforma laboral para profesionales jóvenes / el pulso jurídico en el caso Uribe
 
 
 Tema 6:
-0.003*"colombia" + 0.003*"cabeza" + 0.003*"betplay" + 0.003*"liam" + 0.003*"payne" + 0.003*"liga" + 0.003*"fecha" + 0.003*"direction"
+0.002*"años" + 0.002*"liam" + 0.002*"payne" + 0.002*"direction" + 0.002*"tras" + 0.002*"bogota" + 0.002*"colombia" + 0.002*"cali"
 ------------------------------------
-Así es la Ley de Enemigos Extranjeros que Trump quiere usar para deportar a millones de inmigrantes de Estados Unidos
-Internan en centro de rehabilitación a Angélica Jaramillo, la exparticipante de 'Protagonistas de Nuestra Tele' que confesó su adicción a las drogas
-EN VIVO: Perú y Uruguay completan la novena fecha de las eliminatorias para el Mundial de Norteamérica 2026, siga aquí el partido
-El Renault Twingo E-Tech estará en el Salón de París
-Bogotá tiene un refugio para niños en uno de sus barrios más peligrosos: estos son los servicios que se ofrecen
-¿Cómo es que 'la plata' es clave en los objetivos de la COP16?
-Celsia pondrá a funcionar el primer sistema de baterías conectado a una granja solar
-Fortaleza denuncia que intentaron contactar a jugadores de su plantel para amañar el resultado de un partido de la Liga BetPlay
-Estamos Transformando la Educación en Colombia: Aprueba Xtreme
-¡Atención! Se reporta temblor en Colombia superficial, de magnitud 2.9 en Uribe-Meta: esto se sabe
-Dane tiene trabajo con salarios de hasta $ 4 millones para 186 personas en nueva convocatoria: vea cómo postularse
-Murió Liam Payne, de One Direction: informan que cayó de un tercer piso de un hotel en Buenos Aires, Argentina
-El emotivo video que grabó un piloto antes de que el avión se estrellara y muriera: ‘Vamos para el cielo, papacito lindo’
-No tenía síntomas y  le diagnosticaron un raro tipo de cáncer: ‘Comprendí que el cansancio, la sudoración y la picazón estaban relacionadas’
-Este fue el último concierto de One Direction, la última vez que Liam Payne estuvo con Harry Styles, Louis Tomlinson y Niall Horan en vivo en Inglaterra
-Alerta en Cauca: hostigamientos simultáneos a Fuerza Pública en varios municipios del departamento
-EN VIVO: Millonarios y Fortaleza se enfrentan en la fecha 14 de la Liga BetPlay, sígalo en directo
+Encapuchados y armados con machetes quemaron llantas y bloquearon la vía bajo la estación San Antonio del Metro de Medellín
+Niña de 13 años asesinó a sus hermanas menores y se lo confesó a su madre por mensaje de texto
+El impactante momento en el que un bus con pasajeros a bordo pierde el control y termina en la playa: hay 16 heridos
 Estados Unidos: ¿qué es la lotería de visas 2026 y por qué Colombia y otros países no clasifican? Esto es lo que debe saber
-El extraño caso del hombre que desarrolló un tumor en su cuero cabelludo por practicar 'breakdance' por años
-Se conoce el video del robo masivo en un bus que recorría la vía Panamericana: pasajeros vivieron momentos de pánico
-Zeekr, debutó la marca premium de carros eléctricos en Colombia
-¿Por qué no aumentan los niveles de embalses que abastecen de agua a Bogotá? La CAR explica razones y pronostica escenario delicado
-La infusión natural para purificar el hígado y cuidar sus riñones: la prepara en dos pasos
-China presiona por más bebés: 'Si quieres o no tener hijos es una cuestión muy privada'
-El hombre de 70 años que desafía la vejez con su increíble estado físico: tiene el cuerpo definido como si tuviera 30
-Pilas, padres de familia: estos son los cobros en colegios privados que la Alcaldía de Bogotá va a empezar a regular
-El derecho a reír y la palabra bonita
-La dramática historia de amor de Liam Payne: ¿estaba obsesionado con su expareja Maya Henry?
-Defensoría del Pueblo creará mecanismo para denunciar la violencia sexual de forma confidencial
-Prevención en El Plateado
-Steve Jobs iniciaba sus reuniones con la misma pregunta para mejorar la productividad, innovación y concentración
-Los antecedentes penales de 'El Rolo', señalado por la Policía de ser el homicida del reconocido ciclista Marlon Pérez
-Papá, mamá, ¿me dejan jugar Roblox una hora?
-¿Quién es el jugador de Envigado que habría ofrecido dinero en caso de amaño de partidos de la Liga Betplay? Le contamos
-La digitalización y el desafío de estar presente
-Selección Colombia alista su equipo titular sin mirar atrás para el partido contra Chile de la eliminatoria: las novedades
+Liam Payne: este fue el último video del exintegrante de One Direction que falleció
+Colombiana en Estados Unidos cuenta por qué se devolverá al país: ‘Quiero vivir por mí y mi familia, no vivir para trabajar’
+Deepal S07 reta el futuro
+El Renault 4 regresó como un SUV eléctrico
+¿El Estado renuncia a su soberanía?
+Louis Tomlinson, exintegrante de One Direction envía sentido mensaje tras la muerte de Liam Payne en Argentina: 'Perdí a un hermano'
+¿Se puede bajar de peso sin dejar las harinas? Estas son las rutinas de Harvard para lograrlo
+Este país de América del Sur es el 'mejor para jubilarse': ¿por qué?
+El alimento que podría reducir el riesgo de diabetes tipo 2, según la FDA: pautas específicas y cómo consumirlo
+Sauvage, cocina colombiana con referencias de Francia
+Liam Payne, exintegrante de One Direction, confesó que tenía problemas de alcoholismo y fue internado durante varios meses
+‘Round’ de Petro contra nobel de economía / María Isabel Rueda
+EN VIVO: Millonarios y Fortaleza se enfrentan en la fecha 14 de la Liga BetPlay, sígalo en directo
+Grabados originales de Rembrandt y otros tesoros artísticos, en Bogotá
 Estos son ‘los lujos’ de Jhon Jader Durán, el delantero de la Selección Colombia que marcó gol frente a Chile
-El exsecretario mexicano de Seguridad Genaro García Luna es condenado en Estados Unidos a más de 38 años de cárcel por narcotráfico
+Bogotá: las zonas grises de la ‘ley de sindicatos’ tras la que se camuflan bares clandestinos
+Plan retorno en Bogotá tras el puente festivo: hay pico y placa regional y otras medidas en las vías de entrada a la ciudad
+El CTIC recibe reconocimiento internacional por su excelencia en el tratamiento del cáncer de pulmón: médicos estudian sus bases genéticas y los patrones de heredabilidad
+EN VIVO: Perú y Uruguay completan la novena fecha de las eliminatorias para el Mundial de Norteamérica 2026, siga aquí el partido
+Elecciones de Estados Unidos entre Kamala Harris y Donald Trump se perfilan como las más reñidas de la historia: ¿qué definirá al ganador?
+¿Qué hacía Liam Payne, ex integrante de One Direction, en Argentina? Esto es lo que se sabe
+‘Round’ de Petro contra nobel de economía
+Selección Colombia cambia de horario para jugar contra Ecuador: Fifa confirma programación de las fechas 11 y 12 de la eliminatoria
+Avión atropelló a trabajador del aeropuerto y este sobrevivió de milagro: 'Estuve acostado debajo del avión durante siete minutos'
+¿Planea viajar este fin de semana festivo? En varias regiones del país lloverá según los pronósticos
+Habló el polémico director de noticiero que despidió en vivo al periodista Gustavo Macalpin del canal 66 en México
+Más allá del Cauca / Germán Vargas Lleras
+James Rodríguez, sin minutos en el Rayo Vallecano: fue espectador de lujo y el presidente del club respaldó al DT Íñigo Pérez
+Mujer se divorció y dos años después se arrepintió: 'Nadie se casa pensando que se va a divorciar'
+Colombiana en Londres les pide a quienes van muchos años en Inglaterra que dejen de desearle el mal a quienes recién llegan: ‘Hay espacio para todos’
+Bogotá: patrullero de la Policía fue asesinado por joven de 17 años en medio de una persecución por el robo de un vehículo
+Adria Marina casi se come un pelo de Caterine Ibargüen en 'MasterChef Celebrity': 'Me da una lástima, puede que por esto no me den ningún punto'
+En diciembre empezaría el déficit
+¿Qué hacía Liam Payne, exintegrante de One Direction, en Argentina? Esto es lo que se sabe
+Él es Shigeru Miyamoto, el genio detrás del reino de los hongos donde viven Mario y Luigi
+Mujer sorprendió a su novio al pedirle matrimonio de forma muy inusual: este es el romántico momento
+Este es el ‘oro verde’ que es un aliado para la salud de la piel: es rico en antioxidantes y estimula la producción de colágeno
+Impactante video: dos orcas avistadas por primera vez en el Pacífico Colombiano
+¿De qué murió Liam Payne en Buenos Aires? Esto dijo el servicio médico que lo atendió tras la caída
+La vía aérea, el verdadero salvavidas de Alaska, donde casi todo llega por avión
+Ana María Guzmán, nominada al premio Golden Girl, el mismo que ya ganó Linda Caicedo el año pasado
+Juez otorgó detención domiciliaria a militares por polémica operación en Alto Remanso en la que murieron 11 personas
+El té a base de una especia que baja el colesterol, el azúcar en sangre y es antioxidante
+Diez líderes que defienden la naturaleza a capa y espada
+¿Cómo eliminar toda la información de búsqueda en Meta de WhatsApp?
+Regresa el endocrino más querido de las redes sociales
+De la Clínica del Country a La Picota: el cuadro clínico con el que 'Douglas', poderoso capo paisa, está pidiendo detención domiciliaria
+Más de 80 cámaras fotomultas dejarían de funcionar en Bogotá: este es el mapa donde están ubicadas
+NSO Group sobre la denuncia del presidente de la República Gustavo Petro sobre la adquisición del 'software' Pegasus
+Grave accidente en México: bus cayó de un barranco; hay 24 muertos y 5 heridos
+Estos son los presidentes que están confirmados para participar de la COP 16, en Cali
+El frustrado evento que el gobierno canceló para pedir perdón por el exterminio de la Unión Patriótica costó $3.700 millones
+Reformando a los machetazos
+Prevención en El Plateado
+El restaurante Doña Elvira cumple 90 años, un verdadero clásico bogotano
+Vencimiento de términos
+COP16 y gestión forestal
+Los ocho frenéticos días en los que Colombia afianzó relaciones con Asia: ¿qué busca y cómo queda el país a nivel internacional?
+Las Notas Musicales de Morphine (Rock-Jazz-Blues)
+El desolador panorama en Maracaibo, la segunda ciudad más grande de Venzuela
+¿De qué murió Liam Payne, exintegrante de One Direction en Buenos Aires? Esto dijo el servicio médico que lo atendió tras la caída
+Frente Comuneros del Sur se comprometió a ayudar en la búsqueda de desaparecidos en Nariño tras acuerdo con el Gobierno
+Video | América de Cali, con un espectacular golazo de Duván Vergara, dejó al Cali al borde de la eliminación en la Copa BetPlay
 Así fue el último concierto de Liam Payne, ex One Direction: tuvo que cancelar la gira por grave infección renal
-EN VIVO: Nacional y Envigado juegan a puerta cerrada en el estadio Atanasio Girardot, en la fecha 14 de la Liga BetPlay
-Cabeza a cabeza
-¿Cómo llegó hasta ahí? Graban a un perro en la punta de una pirámide de Giza en Egipto
+Súper Autos Deportivos, nueva colección de El Tiempo y Revista Motor
+Caquetá, Antioquia y Cauca, las zonas que agudizan la crisis de orden público en Colombia
+La médica rural que en Mongolia sigue a sus pacientes nómadas a caballo
+Las razones por las que se aplazó audiencia contra hombre de mensajes racistas en contra de la vicepresidenta Francia Márquez
+Fue víctima de canibalismo hace 179 años en una expedición perdida en el ártico y acaba de ser identificado: ¿la otra sociedad de la nieve?
+Vea en 3D cómo se vive tras las rejas
+Kylian Mbappé: 'influencer' reveló detalles inéditos del escándalo del jugador del Real Madrid en Estocolmo
+La cruel dictadura
+¿Quién era la novia de Liam Payne, exintegrante de One Direction, quien falleció a sus 31 años?
+EN VIVO: Alexis Zapata pone en ventaja al América de Cali en juego pendiente contra La Equidad, en la Liga BetPlay, sígalo en directo
+EN VIVO: Jhon Córdoba empata el juego entre Millonarios y Fortaleza, en la fecha 14 de la Liga BetPlay; sígalo en directo
+Los tres alimentos que reducen el riesgo de demencia, recomendados por Harvard
+Comisionado de Paz, Otty Patiño, asegura que cese del fuego con la disidencia de 'Calarcá' se extenderá; tregua termina el 15 de octubre
+Planes en Bogotá: esta es la agenda cultural y recreativa para el puente festivo de semana de receso
+¡Atención! Se reporta temblor en Colombia superficial, de magnitud 2.9 en Uribe-Meta: esto se sabe
+Expertos de la UNAL analizan el bien común aplicado a la realidad colombiana
+Leire Martínez, vocalista reemplazo de Amaia Montero en La Oreja de Van Gogh, anuncia que deja la banda tras 17 años
+¿Cómo recuperará el Estado los $70.000 millones de pesos que se perdieron en el escándalo de Centros Poblados? Explica la Contraloría
+¿De qué estamos cansados?
+Fuerte temblor en Colombia: el Servicio Geológico Colombiano reportó un sismo de magnitud 4.1
+¿De qué hablaron Vladimir Putin y el presidente de Irán en plena tensión por la guerra en Oriente Próximo?
+Se filtraron las imágenes de la habitación donde Liam Payne, de One Direction, se hospedaba: había un televisor roto
+Batalla campal en el estadio Camp Nou: trabajadores se agredieron con palos en las obras; hay heridos y despedidos
+¿Qué tan cierto es que el sistema Chingaza se va a quedar sin agua? Esto opina el alcalde Carlos Fernando Galán y los expertos
+Advertencia por 146 cámaras de fotomultas que se podrían apagar en Colombia por no renovar permisos: estas son sus ubicaciones
+Atención: Juez otorgó detención domiciliaria a militares imputados por polémica operación en Alto Remanso en la que murieron 11 personas
+Gobernadores solicitan aplazar los Juegos Nacionales Juveniles 2024 por cambios en lo acordado con el Gobierno
+Atención: no va más firma mexicana encargada de imprimir cédulas de extranjería; ¿qué va a pasar con el contrato?
+Brics: un encuentro de líderes con Putin frente al timón, días antes de las elecciones en EE. UU.
+Video: susto en dos centros comerciales de Cali por inundaciones, tras fuertes lluvias
+Los Menéndez: el caso de los hermanos que cometieron parricidio hace 35 años y ahora esperan quedar en libertad
+Este fue el último concierto de One Direction, la última vez que Liam Payne estuvo con Harry Styles, Louis Tomlinson y Niall Horan en vivo en Inglaterra
+En Chile están desesperados: Iván Zamorano estalla y habló de cómo mitigar el calor de Barranquilla
+Luto y dolor en Millonarios: confirman la muerte de querida persona que estuvo varios años en el club de Bogotá
+¿Por qué se están viendo auroras boreales más a menudo?
+Mujer fue detenida después de dejar solo a su hijo de 5 años para ir a una discoteca en España
+Video | Con Luis Díaz llegando desde el banco, Liverpool venció al RB Leipzig como visitante en la Champions League: vea el gol
+Alcaldía de Aguazul se pronuncia tras tragedia por globo aerostático en Casanare, en la que un hombre murió: ‘No es el momento de señalamientos’
+Nutricionista explica cuál es la mejor forma de consumir avena: 'Cruda no es, pues contiene un antinutriente'
+Se filtraron las imágenes de la habitación donde Liam Payne, de One Direction, se hospedaba: un televisor roto
+Pura coincidencia
+Operación Perseo: ¿un ‘timonazo’ a la política de seguridad y paz del gobierno del presidente Gustavo Petro?
+Así se fraguó histórico acuerdo que promete ponerle fin a décadas de tensiones en el norte del Cauca
+Bogotá: 55 estudiantes de la capital fueron seleccionados para viajar a un campamento de inmersión en el Kennedy Space Center Visitor Complex de la NASA
 
 
 Tema 7:
-0.003*"colombia" + 0.003*"no" + 0.003*"gremios" + 0.003*"region" + 0.003*"lleva" + 0.002*"chile" + 0.002*"mayor" + 0.002*"necesitan"
+0.003*"cop16" + 0.003*"colombia" + 0.002*"años" + 0.002*"cuenta" + 0.002*"cayo" + 0.002*"quedo" + 0.002*"tiempo" + 0.002*"no"
 ------------------------------------
-'Soy alcohólico. Soy drogadicto. Soy homosexual. Soy un genio'. 100 años de Truman Capote, el autor de A sangre fría y Música para camaleones
-Montaña en Australia lleva 6.000 años ardiendo en fuego y no es un volcán: nadie ha encontrado la explicación
-Él es el cantante vallenato que entonó el himno en el partido de Colombia vs. Chile: 'Espero no ponerme nervioso y que no se me olvide la letra'
-Un fallo histórico para la democracia y la reconciliación
-¿Por qué se están viendo auroras boreales más a menudo?
-'Es una operación político-militar, en donde los militares tienen que cumplir con su papel, ya lo cumplimos', comandante del Comando Específico del Cauca sobre 'Perseo'
-Tras sufrir por gol en El Alto, Jhon Jáder Durán es la gran esperanza de la Selección Colombia para el partido de eliminatoria contra Chile
-¿De qué murió Liam Payne en Buenos Aires? Esto dijo el servicio médico que lo atendió tras la caída
-AViajar Colombia S.A.S. alerta sobre abusos de su identidad
-Y sí, los huracanes se necesitan en la Tierra
-Estos son los negocios de Kevin Thobias, el millonario que tiene una Tesla Cybertruck modificada en El Poblado y lujosa mansión en Medellín
-Pilas: por mantenimiento de la página web del Runt, no habrá servicio este fin de semana; vea en qué horarios estará habilitada
-Caso de sicariato en Soacha: joven fue asesinado con arma de fuego en cercanías a un colegio
-Formulan pliego de cargos contra edil Dixon Carrascal en Bogotá, por enviar mensajes discriminatorios a empleadas mujeres
-Video | Arturo Vidal reacciona con rabia al gol de Dávinson Sánchez con el que Colombia se fue arriba contra Chile en la eliminatoria
-La ‘apropiación cultural’ de una Uchuvauchuva
-Auxiliares de policía rescataron a una adolescente que se iba a lanzar de un puente en el norte de Bogotá: así fue el momento
-Liam Payne, exintegrante de One Direction, confesó que tenía problemas de alcoholismo y fue internado durante varios meses
-Corea del Sur dice estar lista ante escalada en tensiones con drones con el Norte
-El frustrado evento que el gobierno canceló para pedir perdón por el exterminio de la Unión Patriótica costó $3.700 millones
-Caquetá, Antioquia y Cauca, las zonas que agudizan la crisis de orden público en Colombia
-Lleva tus platos a otro nivel con los indispensables de chef
-Buscan alargar la vida con innovadora píldora: ¿de qué se trata?
-El sencillo truco para evitar que sus camisas tengan manchas de sudor: solo necesita dos ingredientes
-En diciembre empezaría el déficit
-Laura Villamil volvió a caminar: el hermano de la bailarina compartió un video en sus redes sociales dos meses después de sufrir las quemaduras en Andrés Carne de Res
-Serena Williams fue operada para extirpar un tumor en el cuello: 'Me siento tan agradecida y afortunada que todo salió bien'
-El hombre graduado y con una maestría que no encuentra trabajo desde hace nueve años: ‘La gente me ha dicho que solicite empleos con salario mínimo’
-'Abordamos la posibilidad de mayor inversión de Catar en Colombia': canciller Murillo tras agenda en Doha
-América castigó los errores defensivos de Millonarios y aseguró prácticamente su cupo en los cuadrangulares semifinales de la Liga
-¿De qué murió Liam Payne, exintegrante de One Direction en Buenos Aires? Esto dijo el servicio médico que lo atendió tras la caída
-OMS revela cuánto debe caminar una persona mayor a 50 años al día para extender su expectativa de vida
-Video: fanáticos de One Direction hicieron emotiva despedida a Liam Payne frente al hotel donde murió en Buenos Aires
-¿Qué enfermedades previene la dieta mediterránea y por qué es recomendada por los neurólogos?
-La voz de los gremios de la región
-
-
-Tema 8:
-0.003*"colombia" + 0.003*"pais" + 0.003*"personas" + 0.003*"años" + 0.003*"atencion" + 0.003*"tras" + 0.003*"llano" + 0.003*"caso"
-------------------------------------
-¿Es de los que se duerme en el bus y se despierta en su destino sin pasarse? Esta es la explicación científica
-Gobierno entrega más de 5.500 hectáreas a 750 mujeres rurales en nueve departamentos
-El debate por la presencialidad en los juicios orales tras la sanción de la ley estatutaria de administración de justicia
-Más de mil personas se van cada día de Colombia para no regresar
-Taiwán moviliza barcos patrulleros ante la presencia de buques chinos cerca de la isla
-Este país de América del Sur es el 'mejor para jubilarse': ¿por qué?
-Sergio Fajardo habló del accidente que sufrió en carretera de Boyacá: esto es lo que se sabe de su estado de salud
-Estos son los tres poderosos aviones de combate con los que Colombia podría remplazar los Kfir de la FAC
-Neurólogo reveló el mal hábito que tienen las personas y con el cual dañan su cerebro
-Humanizar la educación superior, un compromiso ineludible
-Ante 73 delegaciones, presidente Petro habló de supuesto golpe de Estado en su contra por investigación del CNE a su campaña
-Líderes y empresas que construyen país. Entrevista a Felipe Bayón
-Identifican a hombre armado que 'planeaba' posible ataque contra Donald Trump en California: ¿qué se sabe?
-Regresa el endocrino más querido de las redes sociales
-Más de 60 heridos y cuatro soldados muertos en ataque con drones reivindicado por Hezbolá en Israel
-Miguel Ángel Borja recibió una buena noticia: la justicia argentina archivó el caso en su contra por violencia intrafamiliar
-Gran Bretaña vuelve a retomar una vieja idea: levantar nuevos pueblos enfocados en la construcción de vivienda
-¿Planea viajar este fin de semana festivo? En varias regiones del país lloverá según los pronósticos
-¿Cómo cultivar cúrcuma en casa? Consejos y beneficios de esta planta
-EN VIVO | Movilidad Bogotá: trancón por fuertes lluvias sobre la calle 80
-Quería presumir como una ‘influencer’ millonaria y terminó en la quiebra tras mala administración de un préstamo
-Batalla campal en el estadio Camp Nou: trabajadores se agredieron con palos en las obras; hay heridos y despedidos
-Video | Millonarios tuvo que sufrir para derrotar a Fortaleza y lograr un triunfo importantísimo para acercarse a la clasificación
-Los cinco precandidatos presidenciales del Centro Democrático se reunieron en un cónclave: ¿de qué hablaron?
-‘Con la COP16, Colombia va a ser el epicentro del mundo y protagonista de la construcción de soluciones para enfrentar la triple crisis planetaria’: ONU
-Caza Cocinas, emprendimientos culinarios
-El caso por el que la Corte pidió que el cáncer de seno sea abordado desde la perspectiva de género
-Leire Martínez, vocalista reemplazo de Amaia Montero en La Oreja de Van Gogh, anuncia que deja la banda tras 17 años
-¿De qué hablaron Vladimir Putin y el presidente de Irán en plena tensión por la guerra en Oriente Próximo?
-Atención: Juez otorgó detención domiciliaria a militares imputados por polémica operación en Alto Remanso en la que murieron 11 personas
+América 0 vs. Millonarios 0, EN VIVO: dos de los grandes se ponen al día con la Liga BetPlay, se juega el primer tiempo
+El poderoso batido lleno de colágeno natural que refuerza la piel, el cabello y las articulaciones
+Hombre intentó redimir un cupón de hace 30 años en el supermercado y quedó sorprendido con la respuesta: ‘Queremos ofrecerle algo más grande y mejor’
+Las grietas jurídicas que han desprotegido a los niños de las violencias en Colombia
+‘No te vayas, Charly’ lleva al teatro el acoso en un noticiero
+‘Vale la pena poner a un lado las diferencias y encontrar cómo transformar a Colombia’: Nobel de Economía
+Campesinos bloquean vías en Bolivia en rechazo a probable arresto del expresidente Evo Morales
+Nima Rinji Sherpa, el más joven en escalar 14 montañas de más de 8 mil metros de altura
+Tadej Pogacar: equipo UAE Emirates asegura a su gran estrella hasta el 2030
 ¿Qué tanto saben las mujeres sobre la enfermedad cardiovascular?
-Advertencia por 146 cámaras de fotomultas que se podrían apagar en Colombia por no renovar permisos: estas son sus ubicaciones
+Gran Bretaña vuelve a retomar una vieja idea: levantar nuevos pueblos enfocados en la construcción de vivienda
 La asquerosa máquina de la belleza
-EN VIVO: el líder América de Cali recibe al Deportivo Independiente Medellín en la fecha 14 de la Liga BetPlay
-Atención: encontraron a la familia colombiana que había desaparecido en México tras un paseo
-Escapadas rápidas: 5 destinos imperdibles cerca de Bogotá para disfrutar este festivo
-Mujer se divorció y dos años después se arrepintió: 'Nadie se casa pensando que se va a divorciar'
-Partido Colombia-Chile: atención a las restricciones a la movilidad en Barranquilla
-¿Busca empleo? Dollarcity tiene una amplia convocatoria de trabajo con diversos perfiles en varias ciudades de Colombia
-Perú salió de la cola de la eliminatoria, derrotó a Uruguay y le ayudó a Colombia a mantener el segundo lugar de la tabla de posiciones
-Rechazo por niño de nueve años que entró a un hospital veterinario y desmembró a más de 20 animales
-Este fue el elogio de Antonela Roccuzzo a Messi tras la contundente victoria de Argentina contra Bolivia en eliminatorias
-Descifrando a Murakami
-Conductor atropelló a motoladrones y evitó que le robaran las pertenencias a un joven en Barrancabermeja: todo quedó en video
-Los Menéndez: el caso de los hermanos que cometieron parricidio hace 35 años y ahora esperan quedar en libertad
-El alimento que podría reducir el riesgo de diabetes tipo 2, según la FDA: pautas específicas y cómo consumirlo
-¿Quiere trabajar en España? Estas son las ofertas laborales del Sena con sueldos de hasta 15 millones de pesos
-Perseo embolatado
-Llano 7 días
-
-
-Tema 9:
-0.005*"prudencia" + 0.004*"futuro" + 0.003*"huracan" + 0.003*"reforma" + 0.003*"comida" + 0.003*"presidente" + 0.003*"retoma" + 0.003*"petro"
-------------------------------------
-¿Cómo diferenciar la nueva camiseta de conmemoración 100 años de la Selección Colombia ‘chiviada’ de una original? No se deje estafar
-¿Cómo mantener la lechuga fresca hasta por 60 días? Estos son los trucos de un Chef
-Corte salvó la norma que regula la sobretasa al sector minero energético fijado en la reforma tributaria
-Retoma de El Plateado
-Comidas que si consumen en exceso pueden tener efectos negativos para el organismo
-¿Es malo dejar activado el Wi-Fi del celular cuando se sale de la casa? Esta es la alerta que hacen expertos
-Las Notas Musicales de Steve Winwood
-Deepal S07 reta el futuro
-Rechazan tutela del congresista Heráclito Landinez contra el CNE por investigación a la campaña del presidente Petro
-Los dementes de la chicha y del aguardiente
-La embestida del Gobierno Petro contra la Registraduría ‘ad portas’ de las elecciones presidenciales de 2026
-¿Por qué la comida sabe a nevera? Esta es la explicación y las recomendaciones
-'Vivo en Alaska con una familia estadounidense y les cociné comida colombiana': estos fueron los resultados
-¿El precio de la prudencia?
-El huracán CNE
-'La vorágine más allá', una experiencia multidisciplinaria alrededor de la novela
-Reforma laboral: continúa el debate en la plenaria de la Cámara de Representantes
-Duro enfrentamiento entre el presidente Gustavo Petro y el expresidente Álvaro Uribe por la reforma laboral
-Así reacciona el mundo de la música a la muerte de Liam Payne, exintegrante de One Direction, en Buenos Aires, Argentina
-Recuerda que Polvo eres...
-Productor de 'Los Simpson' explicó cómo hicieron para 'predecir el futuro' y que varios hechos pasaran en la vida real
+Así quedó la lujosa camioneta de Alfredo Morelos, jugador de Atlético Nacional, capturado tras atropellar a un motociclista
+Corte Constitucional tumbó artículo del Plan Nacional de Desarrollo ligado a función de la Superintendencia de Transporte
+La causa noble de Helena
+Alias Pichi salió 14 veces del domicilio en el que estaba recluido en menos de 20 días: estos fueron sus últimos movimientos
+¿Por qué no aumentan los niveles de embalses que abastecen de agua a Bogotá? La CAR explica razones y pronostica escenario delicado
+Senadora Pizarro alertó al alcalde Galán sobre escasez de agua y lo invitó a debate de control político luego de la COP16
+Revelan la identidad del jefe de Hezbolá en América Latina: habría liderado un intento de atentado en Colombia en 2021
+¿Qué enfermedades previene la dieta mediterránea y por qué es recomendada por los neurólogos?
 La doble vida del ‘narco invisible’ que cayó en Acandí, Chocó: usaba las redes sociales para mostrar su próspero negocio
-Así es la Ley de Enemigos Extranjeros que Donald Trump quiere usar para deportar a millones de inmigrantes de Estados Unidos
-Hallan muerto a Guilherme ‘Bomba’ Vasconcelos, luchador brasileño de la UFC que fue novio de Demi Lovato
-Juez otorgó detención domiciliaria a militares por polémica operación en Alto Remanso en la que murieron 11 personas
-Misión de la ONU acusa al Gobierno venezolano de Nicolás Maduro de crímenes de lesa humanidad en las elecciones de 2024
-Fuerte temblor en Colombia: el Servicio Geológico Colombiano reportó un sismo de magnitud 4.1
-¡Gane hasta $1.000.000 semanales con los productos de Banco Popular!
-Actuar por prudencia
-Santa Fe sigue firme en la Liga Betplay y hundió a Patriotas: victoria en Tunja para acariciar la clasificación
-La magia de vivir Halloween en Estados Unidos
-Grabados originales de Rembrandt y otros tesoros artísticos, en Bogotá
-El restaurante Doña Elvira cumple 90 años, un verdadero clásico bogotano
-La historia de la lujosa mansión y el conjunto residencial en Medellín de donde escapó alias 'Pichi'
-La extraña desaparición de pareja de Galapa, Atlántico, durante un retén en México: esto es lo que se sabe
-El control territorial II
-¿Qué debe pasar con César Lorduy, presidente del CNE?
-COP16: la ventana al futuro que es la agricultura regenerativa
-Video | Andrés Mosquera Marmolejo, arquero de Santa Fe, y sus cuatro espectaculares atajadas en la misma acción, contra Patriotas
+Video: así quedaron captados los ataques de Israel a la capital de Irán, Teherán
+Proyecto de Ley revoluciona el futuro de las energías renovables
+Dian subasta relojes Fossil, Victorinox e Invicta desde $ 700 mil; catálogo completo y cómo participar
+Dos temas: COP16, los protectores de la biodiversidad desde las comunidades afro / La guerra Irán-Israel
+¿Por qué la comida sabe a nevera? Esta es la explicación y las recomendaciones
+Brayan Campo, confeso asesino de Sofía Delgado, estaba libre por vencimiento de términos: detalles desconocidos del caso que indigna a Colombia
+Que el país sepa la verdad
+El caso por el que la Corte pidió que el cáncer de seno sea abordado desde la perspectiva de género
+Más de 60 heridos y cuatro soldados muertos en ataque con drones reivindicado por Hezbolá en Israel
+La historia de éxito de Niki: a sus 15 años abrió un concierto para Taylor Swift
+Mesera con miedo a la salsa de tomate cuenta cómo enfrenta su fobia en el trabajo: 'Es el peor momento del día'
+Internan en centro de rehabilitación a Angélica Jaramillo, la exparticipante de 'Protagonistas de Nuestra Tele' que confesó su adicción a las drogas
+¿Qué significa escuchar siempre la misma canción? Esto dice la psicología
+Caso de sicariato en Soacha: joven fue asesinado con arma de fuego en cercanías a un colegio
+Colombia y la COP16
+Esta es la gasolinera que residentes consideran un 'salvavidas' en una ciudad libanesa víctima de la guerra: 'Es mi deber quedarme'
+¿Cómo diferenciar la nueva camiseta de conmemoración 100 años de la Selección Colombia ‘chiviada’ de una original? No se deje estafar
+Comenzó el golpe… a Ecopetrol
+¿Todavía hay tiempo de salvar el proceso de paz con la guerrilla Eln, que lleva meses inmerso en una crisis?
+Estos son los cinco nuevos embajadores en Colombia que presentaron sus cartas credenciales al presidente Gustavo Petro
+Quedó grande 'volvernos pequeños'
+Tesla presentó su robot humanoide 'Optimus': podría entablar una conversación como una persona
+Atención: legalizaron la captura de Brayan Campo, señalado asesino de Sofía Delgado; la otra sospechosa quedó en libertad
+Carro cayó desde un tercer piso cuando mujer lo estaba estacionando en Cartagena: esto es lo que se sabe del accidente
+Disney+ evitará que se comparta la contraseña de la cuenta: ya hay fecha para Colombia, ojo
+Muerte de Liam Payne | Revelan mensajes de empleados del hotel de Buenos Aires: 'La habitación era un desastre, llena de drogas por todo lado'
 Bogotá: ¿qué hay detrás del ataque a una mujer dentro de una camioneta que terminó en balacera con la Policía?
-Rechazan tutela del congresista Heráclito Landínez contra el CNE por investigación a la campaña del presidente Petro
-Hidracol, disponible en las Droguerías Colsubsidio
+Estos son los cambios clave del subsidio de Ingreso Mínimo Garantizado que debe conocer
+COP16 | ‘La extinción de especies y la crisis climática solo se pueden resolver juntas’: Steffi Lemke, ministra de Ambiente de Alemania
+EN VIVO | Movilidad Bogotá: trancón por fuertes lluvias sobre la calle 80
+Dejó la universidad para dedicarse a reciclar y hoy es un multimillonario que revolucionó una industria entera
+Racionamiento de agua en Bogotá: estos son los barrios que tendrán cortes este viernes 18 de octubre
+Pilas: por mantenimiento de la página web del Runt, no habrá servicio este fin de semana; vea en qué horarios estará habilitada
+¿Cómo ver su estado de cuenta del Icetex? Conozca el paso a paso para consultarlo en línea en 2024
+EE.UU. insta a Israel a aprovechar la oportunidad de poner fin a la guerra en Gaza: esto declaró el secretario Antony Blinken
+¿Podría ser liberado?
+Sacudón en el fútbol argentino: 'Chiqui' Tapia desafió a Javier Milei, se hizo reelegir y anuló los descensos en primera división
+Las fotos que posteó futbolista colombiano con la mexicana señalada de integrar banda que robaba joyas en Europa y EE. UU.
+Los dementes de la chicha y del aguardiente
+COP16: los puntos claves de la Cumbre de Biodiversidad que se tendrán en cuenta en Cali
+Le hackeó el celular para estafarla, pero pasó lo que no se esperaba, terminó coqueteando con su víctima: 'Para qué robarte si puedo conquistarte'
+'Vivo en Alaska con una familia estadounidense y les cociné comida colombiana': estos fueron los resultados
+Y sí, los huracanes se necesitan en la Tierra
+¿Cuál es el 'peor' día de la semana, según la ciencia? No es el lunes
+Así avanza la COP16 hoy 26 de octubre en Cali | Eventos, concierto de Rubén Blades y la agenda del sexto día
+'Mamá, quiero vivir': la historia de la niña de 6 años que tuvo que luchar contra el cáncer en medio de la guerra
+Con trancones se inició el antigolpe
+Descubre el cuerpo humano: una colección educativa y divertida
+Secuestran a cuatro trabajadores de Ecopetrol en el Catatumbo: la empresa pide su libertad
+Murió Liam Payne, de One Direction: informan que cayó de un tercer piso de un hotel en Buenos Aires, Argentina
+¿Quiere invertir? Estos son cinco vehículos de inversión que le pueden ayudar a diversificar sus ingresos
+Científicos de la Nasa predicen cuándo desaparecerá Sol y sus efectos en la Tierra
+La dureza entre colegas
+La madre de tres hijos con tumores en los pulmones a la que le dieron pocos años de vida y hoy es triatleta
+Cambio Radical abrió proceso disciplinario contra César Lorduy, presidente del CNE, por caso de presunto acoso sexual
+Kamala Harris le da un giro a la táctica de Donald Trump para ganar las elecciones presidenciales de EE.UU.: esta es su estrategia
+Estos son nueve hábitos que hacen las personas inteligentes para cuidar su felicidad
+El lío con 'Ñata', el caimán que creció como 'mascota' en una casa de Palmira al parecer durante 54 años
+El caso por el que la Corte Constitucional pidió que el cáncer de seno sea abordado desde la perspectiva de género
+Exclusivo | La mujer emberá que dice ser la inspiración del billete de 10.000 llegó a Bogotá: ‘Quiero que reconozcan que esa soy yo cuando era niña’
+Use este buscador para encontrar obras
+¿Quién es el pariente de ‘Otoniel’ que cayó en Medellín en medio de un operativo de la Policía?
+¿Cuáles son los panes saludables que puede incluir en la dieta para la pérdida de peso? Esto dicen los expertos
+Corte Constitucional reiteró competencias de la Procuraduría para sancionar a servidores públicos de elección popular
+Celsia pondrá a funcionar el primer sistema de baterías conectado a una granja solar
+Atentado en Ankara: gobierno atribuye el ataque al PKK, grupo rebelde kurdo
+América castigó los errores defensivos de Millonarios y aseguró prácticamente su cupo en los cuadrangulares semifinales de la Liga
+Estos son los negocios de Kevin Thobias, el millonario que tiene una Tesla Cybertruck modificada en El Poblado y lujosa mansión en Medellín
+Transforma tu vida con la Biblioteca de Psicología de El Tiempo
 
 
